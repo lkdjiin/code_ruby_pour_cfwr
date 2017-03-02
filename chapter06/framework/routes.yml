@@ -1,0 +1,1 @@
+"/articles": { via: "get", to: "articles#index" }
