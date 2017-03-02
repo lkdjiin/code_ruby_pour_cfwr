@@ -1,0 +1,1 @@
+"/hello": { via: "get", to: "hello#index" }
