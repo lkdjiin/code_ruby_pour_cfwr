@@ -1,0 +1,3 @@
+"/posts": { via: "get", to: "posts#index" }
+"/posts/show": { via: "get", to: "posts#show" }
+"/posts/delete": { via: "get", to: "posts#delete" }
