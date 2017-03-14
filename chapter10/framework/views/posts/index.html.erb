@@ -1,0 +1,5 @@
+<% @posts.each do |post| %>
+  <a href="/posts/show?id=<%= post.id %>">
+    <p><b><%= post.title %></b> - <%= Time.at post.date %></p>
+  </a>
+<% end %>
