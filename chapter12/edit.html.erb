@@ -1,0 +1,10 @@
+<h2>Modifier un post</h2>
+
+<form method="post">
+
+  <input type="hidden" name="id" value="<%= @post.id %>">
+
+  <%= partial "shared/form_fields.html.erb" %>
+
+  <input type="submit" value="Mettre à jour">
+</form>
