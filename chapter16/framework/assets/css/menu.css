@@ -1,0 +1,12 @@
+#menu {
+  background-color: #963;
+  color: #f2e6d9;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+}
+
+#menu a {
+  color: #f2e6d9;
+  margin-left: 1.5rem;
+}
