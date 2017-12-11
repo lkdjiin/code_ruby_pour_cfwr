@@ -1,0 +1,8 @@
+-# --- La vue au format HAML
+-# Fichier views/posts/index.html.haml
+- content_for "title", "La liste des posts"
+- @posts.each do |post|
+  %a{:href => "/posts/show?id=#{post.id}"}
+    %p
+      %b= post.title
+      \- #{Time.at post.date}
