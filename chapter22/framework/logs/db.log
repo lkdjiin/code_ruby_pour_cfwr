@@ -1,0 +1,63 @@
+# Logfile created on 2017-12-13 08:37:37 +0100 by logger.rb/56815
+I, [2017-12-13T08:37:37.796998 #17891]  INFO -- : (0.000194s) PRAGMA foreign_keys = 1
+I, [2017-12-13T08:37:37.797075 #17891]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T08:37:37.797274 #17891]  INFO -- : (0.000084s) SELECT sqlite_version()
+I, [2017-12-13T08:37:37.797536 #17891]  INFO -- : (0.000116s) PRAGMA table_info('quotes')
+I, [2017-12-13T08:37:58.972094 #17891]  INFO -- : (0.000826s) SELECT * FROM `quotes`
+I, [2017-12-13T09:01:31.092326 #24391]  INFO -- : (0.000195s) PRAGMA foreign_keys = 1
+I, [2017-12-13T09:01:31.092418 #24391]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T09:01:31.092611 #24391]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2017-12-13T09:01:31.092876 #24391]  INFO -- : (0.000122s) PRAGMA table_info('quotes')
+I, [2017-12-13T09:03:39.335370 #24678]  INFO -- : (0.000200s) PRAGMA foreign_keys = 1
+I, [2017-12-13T09:03:39.335468 #24678]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T09:03:39.335648 #24678]  INFO -- : (0.000088s) SELECT sqlite_version()
+I, [2017-12-13T09:03:39.335906 #24678]  INFO -- : (0.000111s) PRAGMA table_info('quotes')
+I, [2017-12-13T09:04:21.746726 #24746]  INFO -- : (0.000193s) PRAGMA foreign_keys = 1
+I, [2017-12-13T09:04:21.746810 #24746]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T09:04:21.747012 #24746]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2017-12-13T09:04:21.747305 #24746]  INFO -- : (0.000138s) PRAGMA table_info('quotes')
+I, [2017-12-13T09:04:25.364215 #24746]  INFO -- : (0.001501s) SELECT * FROM `quotes` WHERE (UPPER(`character`) LIKE UPPER('brett') ESCAPE '\') LIMIT 1
+I, [2017-12-13T10:27:26.037536 #28813]  INFO -- : (0.000203s) PRAGMA foreign_keys = 1
+I, [2017-12-13T10:27:26.037619 #28813]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T10:27:26.037788 #28813]  INFO -- : (0.000079s) SELECT sqlite_version()
+I, [2017-12-13T10:27:26.038076 #28813]  INFO -- : (0.000112s) PRAGMA table_info('quotes')
+I, [2017-12-13T10:27:34.580270 #28813]  INFO -- : (0.000311s) SELECT * FROM `quotes` WHERE (UPPER(`character`) LIKE UPPER('brett') ESCAPE '\') LIMIT 1
+I, [2017-12-13T10:28:10.287046 #28813]  INFO -- : (0.000673s) SELECT * FROM `quotes` WHERE `id` = '5'
+I, [2017-12-13T10:28:10.287877 #28813]  INFO -- : (0.000142s) BEGIN
+I, [2017-12-13T10:28:10.290103 #28813]  INFO -- : (0.000839s) UPDATE `quotes` SET `character` = 'Brett', `quote` = 'Quoi ?', `likes` = 1, `dislikes` = 0 WHERE (`id` = 5)
+I, [2017-12-13T10:28:10.305242 #28813]  INFO -- : (0.014674s) COMMIT
+I, [2017-12-13T12:09:13.465043 #4325]  INFO -- : (0.000207s) PRAGMA foreign_keys = 1
+I, [2017-12-13T12:09:13.465126 #4325]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T12:09:13.465309 #4325]  INFO -- : (0.000089s) SELECT sqlite_version()
+I, [2017-12-13T12:09:13.465601 #4325]  INFO -- : (0.000127s) PRAGMA table_info('quotes')
+I, [2017-12-13T12:09:29.290441 #4325]  INFO -- : (0.000384s) SELECT * FROM `quotes` WHERE `id` = '5'
+I, [2017-12-13T12:09:29.290931 #4325]  INFO -- : (0.000102s) BEGIN
+I, [2017-12-13T12:09:29.292053 #4325]  INFO -- : (0.000396s) UPDATE `quotes` SET `character` = 'Brett', `quote` = 'Quoi ?', `likes` = 2, `dislikes` = 0 WHERE (`id` = 5)
+I, [2017-12-13T12:09:29.307951 #4325]  INFO -- : (0.015682s) COMMIT
+I, [2017-12-13T12:10:09.850727 #4325]  INFO -- : (0.000773s) SELECT * FROM `quotes` WHERE (UPPER(`character`) LIKE UPPER('brett') ESCAPE '\') LIMIT 1
+I, [2017-12-13T12:36:52.869733 #9066]  INFO -- : (0.000193s) PRAGMA foreign_keys = 1
+I, [2017-12-13T12:36:52.869815 #9066]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T12:36:52.870017 #9066]  INFO -- : (0.000082s) SELECT sqlite_version()
+I, [2017-12-13T12:36:52.870268 #9066]  INFO -- : (0.000106s) PRAGMA table_info('quotes')
+I, [2017-12-13T12:36:58.204709 #9066]  INFO -- : (0.000339s) SELECT * FROM `quotes` WHERE (UPPER(`character`) LIKE UPPER('brett') ESCAPE '\') LIMIT 1
+I, [2017-12-13T12:37:13.174009 #9066]  INFO -- : (0.000889s) SELECT * FROM `quotes` WHERE (UPPER(`character`) LIKE UPPER('yolanda') ESCAPE '\') LIMIT 1
+I, [2017-12-13T12:52:53.369843 #10169]  INFO -- : (0.000197s) PRAGMA foreign_keys = 1
+I, [2017-12-13T12:52:53.369939 #10169]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T12:52:53.370111 #10169]  INFO -- : (0.000083s) SELECT sqlite_version()
+I, [2017-12-13T12:52:53.370375 #10169]  INFO -- : (0.000126s) PRAGMA table_info('quotes')
+I, [2017-12-13T12:54:53.530185 #10499]  INFO -- : (0.000201s) PRAGMA foreign_keys = 1
+I, [2017-12-13T12:54:53.530272 #10499]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T12:54:53.530443 #10499]  INFO -- : (0.000082s) SELECT sqlite_version()
+I, [2017-12-13T12:54:53.530721 #10499]  INFO -- : (0.000131s) PRAGMA table_info('quotes')
+I, [2017-12-13T13:01:59.099080 #11734]  INFO -- : (0.000218s) PRAGMA foreign_keys = 1
+I, [2017-12-13T13:01:59.099167 #11734]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T13:01:59.099366 #11734]  INFO -- : (0.000086s) SELECT sqlite_version()
+I, [2017-12-13T13:01:59.099639 #11734]  INFO -- : (0.000109s) PRAGMA table_info('quotes')
+I, [2017-12-13T14:03:08.988131 #13328]  INFO -- : (0.000195s) PRAGMA foreign_keys = 1
+I, [2017-12-13T14:03:08.988214 #13328]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T14:03:08.988400 #13328]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2017-12-13T14:03:08.988678 #13328]  INFO -- : (0.000113s) PRAGMA table_info('quotes')
+I, [2017-12-13T14:04:38.365027 #13405]  INFO -- : (0.000192s) PRAGMA foreign_keys = 1
+I, [2017-12-13T14:04:38.365113 #13405]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2017-12-13T14:04:38.365281 #13405]  INFO -- : (0.000079s) SELECT sqlite_version()
+I, [2017-12-13T14:04:38.365564 #13405]  INFO -- : (0.000125s) PRAGMA table_info('quotes')

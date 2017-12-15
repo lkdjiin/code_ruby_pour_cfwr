@@ -1,0 +1,15 @@
+# Logfile created on 2017-12-13 08:37:37 +0100 by logger.rb/56815
+127.0.0.1 - - [13/Dec/2017:08:37:58 +0100] "GET /quotes HTTP/1.1" 200 - 0.0041
+127.0.0.1 - - [13/Dec/2017:09:04:25 +0100] "GET /quotes/show?character=brett HTTP/1.1" 200 - 0.0062
+127.0.0.1 - - [13/Dec/2017:10:27:34 +0100] "GET /quotes/show?character=brett HTTP/1.1" 200 - 0.0023
+127.0.0.1 - - [13/Dec/2017:10:27:57 +0100] "GET /quotes/like?id=5 HTTP/1.1" 404 - 0.0016
+127.0.0.1 - - [13/Dec/2017:10:28:10 +0100] "POST /quotes/like?id=5 HTTP/1.1" 200 - 0.0374
+127.0.0.1 - - [13/Dec/2017:12:09:20 +0100] "POST /quotes/like?id=5 HTTP/1.1" 404 - 0.0015
+127.0.0.1 - - [13/Dec/2017:12:09:29 +0100] "POST /v1/quotes/like?id=5 HTTP/1.1" 299 - 0.0309
+127.0.0.1 - - [13/Dec/2017:12:09:42 +0100] "GET /quotes/v1/show?character=brett HTTP/1.1" 404 - 0.0007
+127.0.0.1 - - [13/Dec/2017:12:10:09 +0100] "GET /v1/quotes/show?character=brett HTTP/1.1" 200 - 0.0047
+127.0.0.1 - - [13/Dec/2017:12:36:58 +0100] "GET /v1/quotes/show?character=brett HTTP/1.1" 200 - 0.0020
+127.0.0.1 - - [13/Dec/2017:12:37:13 +0100] "GET /v1/quotes/show?character=yolanda HTTP/1.1" 200 - 0.0030
+127.0.0.1 - - [13/Dec/2017:13:02:04 +0100] "GET /v1/quotes/boom HTTP/1.1" 404 - 0.0020
+127.0.0.1 - - [13/Dec/2017:13:02:25 +0100] "GET /v1/boom HTTP/1.1" 404 - 0.0019
+127.0.0.1 - - [13/Dec/2017:14:04:41 +0100] "GET /v1/quotes/show?character=yolanda HTTP/1.1" 500 - 0.0008
