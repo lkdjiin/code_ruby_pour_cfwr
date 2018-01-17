@@ -1,0 +1,22 @@
+/* Notre CSS actuel */
+/* assets/css/main.css */
+body {
+  background-color: #EFFFF0;
+  color: #444;
+}
+/* assets/css/hello.css */
+p.hello {
+  color: #777;
+}
+
+
+/* Fichier full.css «à la main» */
+/* Fichier assets/css/full.css */
+body {
+  background-color: #EFFFF0;
+  color: #444;
+}
+p.hello {
+  color: red;
+}
+
