@@ -1,0 +1,21 @@
+# Logfile created on 2018-01-17 09:17:30 +0100 by logger.rb/56815
+I, [2018-01-17T09:17:30.900835 #21537]  INFO -- : (0.000146s) PRAGMA foreign_keys = 1
+I, [2018-01-17T09:17:30.900914 #21537]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-01-17T09:17:30.901105 #21537]  INFO -- : (0.000084s) SELECT sqlite_version()
+I, [2018-01-17T09:17:30.901286 #21537]  INFO -- : (0.000027s) PRAGMA table_info('quotes')
+E, [2018-01-17T09:17:30.901473 #21537] ERROR -- : SQLite3::SQLException: no such table: quotes: SELECT * FROM `quotes` LIMIT 1
+I, [2018-01-17T09:22:24.251521 #21995]  INFO -- : (0.000135s) PRAGMA foreign_keys = 1
+I, [2018-01-17T09:22:24.251610 #21995]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-01-17T09:22:24.251805 #21995]  INFO -- : (0.000083s) SELECT sqlite_version()
+I, [2018-01-17T09:22:24.251978 #21995]  INFO -- : (0.000029s) PRAGMA table_info('quotes')
+E, [2018-01-17T09:22:24.252169 #21995] ERROR -- : SQLite3::SQLException: no such table: quotes: SELECT * FROM `quotes` LIMIT 1
+I, [2018-01-17T09:24:29.899043 #22104]  INFO -- : (0.000138s) PRAGMA foreign_keys = 1
+I, [2018-01-17T09:24:29.899135 #22104]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-01-17T09:24:29.899324 #22104]  INFO -- : (0.000089s) SELECT sqlite_version()
+I, [2018-01-17T09:24:29.899530 #22104]  INFO -- : (0.000030s) PRAGMA table_info('quotes')
+E, [2018-01-17T09:24:29.899746 #22104] ERROR -- : SQLite3::SQLException: no such table: quotes: SELECT * FROM `quotes` LIMIT 1
+I, [2018-01-17T09:28:59.912352 #22636]  INFO -- : (0.000158s) PRAGMA foreign_keys = 1
+I, [2018-01-17T09:28:59.912442 #22636]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-01-17T09:28:59.912619 #22636]  INFO -- : (0.000081s) SELECT sqlite_version()
+I, [2018-01-17T09:28:59.912798 #22636]  INFO -- : (0.000026s) PRAGMA table_info('quotes')
+E, [2018-01-17T09:28:59.912973 #22636] ERROR -- : SQLite3::SQLException: no such table: quotes: SELECT * FROM `quotes` LIMIT 1
