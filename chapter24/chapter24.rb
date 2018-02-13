@@ -98,7 +98,7 @@ module Generators
 
     def code
       <<~CODE
-        class #{@name}
+        class #{@name} < BaseController
           def index
           end
 
@@ -154,7 +154,7 @@ module Generators
 
     def code
       <<~CODE
-        class #{@classname}
+        class #{@classname} < BaseController
           def index
           end
 
@@ -238,7 +238,7 @@ module Generators
 
     def standard
       <<~STANDARD
-        class #{classname}
+        class #{classname} < BaseController
           def index
           end
 
@@ -254,7 +254,7 @@ module Generators
     end
 
     def custom
-      "class #{classname}\n" +
+      "class #{classname} < BaseController\n" +
         actions.map { |action| "  def #{action}\n  end\n" }.join("\n") +
         "end\n"
     end
