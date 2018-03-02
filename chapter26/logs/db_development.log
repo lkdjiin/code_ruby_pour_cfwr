@@ -1,0 +1,1357 @@
+# Logfile created on 2018-02-07 08:28:33 +0100 by logger.rb/56815
+I, [2018-02-07T08:28:33.643398 #10830]  INFO -- : (0.000183s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:28:33.643499 #10830]  INFO -- : (0.000027s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:28:33.643685 #10830]  INFO -- : (0.000083s) SELECT sqlite_version()
+I, [2018-02-07T08:28:33.643876 #10830]  INFO -- : (0.000035s) PRAGMA table_info('articles')
+E, [2018-02-07T08:28:33.644058 #10830] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:30:28.714065 #10910]  INFO -- : (0.000181s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:30:28.714159 #10910]  INFO -- : (0.000028s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:30:28.714358 #10910]  INFO -- : (0.000100s) SELECT sqlite_version()
+I, [2018-02-07T08:30:28.714539 #10910]  INFO -- : (0.000028s) PRAGMA table_info('articles')
+E, [2018-02-07T08:30:28.714729 #10910] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:31:19.722750 #11015]  INFO -- : (0.000179s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:31:19.722849 #11015]  INFO -- : (0.000028s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:31:19.723022 #11015]  INFO -- : (0.000081s) SELECT sqlite_version()
+I, [2018-02-07T08:31:19.723205 #11015]  INFO -- : (0.000026s) PRAGMA table_info('articles')
+E, [2018-02-07T08:31:19.723396 #11015] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:32:31.235288 #11177]  INFO -- : (0.000176s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:32:31.235397 #11177]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:32:31.235587 #11177]  INFO -- : (0.000084s) SELECT sqlite_version()
+I, [2018-02-07T08:32:31.235784 #11177]  INFO -- : (0.000034s) PRAGMA table_info('articles')
+E, [2018-02-07T08:32:31.236056 #11177] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:32:51.518877 #11194]  INFO -- : (0.000195s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:32:51.518979 #11194]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:32:51.519171 #11194]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2018-02-07T08:32:51.519360 #11194]  INFO -- : (0.000026s) PRAGMA table_info('articles')
+E, [2018-02-07T08:32:51.519560 #11194] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:33:04.404317 #11256]  INFO -- : (0.000182s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:33:04.404416 #11256]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:33:04.404604 #11256]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2018-02-07T08:33:04.404794 #11256]  INFO -- : (0.000027s) PRAGMA table_info('articles')
+E, [2018-02-07T08:33:04.404982 #11256] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-15T13:37:34.853272 #21669]  INFO -- : (0.000217s) PRAGMA foreign_keys = 1
+I, [2018-02-15T13:37:34.853358 #21669]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-15T13:37:34.853561 #21669]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2018-02-15T13:37:34.853742 #21669]  INFO -- : (0.000030s) PRAGMA table_info('collections')
+E, [2018-02-15T13:37:34.853928 #21669] ERROR -- : SQLite3::SQLException: no such table: collections: SELECT * FROM `collections` LIMIT 1
+I, [2018-02-15T13:37:34.854843 #21669]  INFO -- : (0.000135s) PRAGMA table_info('gifs')
+I, [2018-02-15T13:37:34.855615 #21669]  INFO -- : (0.000039s) PRAGMA table_info('articles')
+E, [2018-02-15T13:37:34.855803 #21669] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-15T13:38:54.480956 #21855]  INFO -- : (0.000218s) PRAGMA foreign_keys = 1
+I, [2018-02-15T13:38:54.481038 #21855]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-02-15T13:38:54.481232 #21855]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2018-02-15T13:38:54.481410 #21855]  INFO -- : (0.000028s) PRAGMA table_info('collections')
+E, [2018-02-15T13:38:54.481622 #21855] ERROR -- : SQLite3::SQLException: no such table: collections: SELECT * FROM `collections` LIMIT 1
+I, [2018-02-15T13:38:54.482492 #21855]  INFO -- : (0.000110s) PRAGMA table_info('gifs')
+I, [2018-02-15T13:38:54.483310 #21855]  INFO -- : (0.000040s) PRAGMA table_info('articles')
+E, [2018-02-15T13:38:54.483493 #21855] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-15T13:38:54.484051 #21855]  INFO -- : (0.000098s) PRAGMA table_info('users')
+I, [2018-02-15T13:47:31.392728 #23346]  INFO -- : (0.000213s) PRAGMA foreign_keys = 1
+I, [2018-02-15T13:47:31.392819 #23346]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-02-15T13:47:31.393013 #23346]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2018-02-15T13:47:31.393195 #23346]  INFO -- : (0.000028s) PRAGMA table_info('collections')
+E, [2018-02-15T13:47:31.393394 #23346] ERROR -- : SQLite3::SQLException: no such table: collections: SELECT * FROM `collections` LIMIT 1
+I, [2018-02-15T13:47:31.394312 #23346]  INFO -- : (0.000118s) PRAGMA table_info('gifs')
+I, [2018-02-15T13:47:31.395100 #23346]  INFO -- : (0.000036s) PRAGMA table_info('articles')
+E, [2018-02-15T13:47:31.395281 #23346] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-15T13:47:31.395830 #23346]  INFO -- : (0.000099s) PRAGMA table_info('users')
+I, [2018-02-15T13:47:35.435568 #23346]  INFO -- : (0.000044s) BEGIN
+I, [2018-02-15T13:47:35.435958 #23346]  INFO -- : (0.000169s) INSERT INTO `users` (`name`) VALUES ('xavier')
+I, [2018-02-15T13:47:35.436204 #23346]  INFO -- : (0.000117s) SELECT * FROM `users` WHERE `id` = 1
+I, [2018-02-15T13:47:35.454313 #23346]  INFO -- : (0.018040s) COMMIT
+I, [2018-02-15T13:57:00.733513 #24849]  INFO -- : (0.000226s) PRAGMA foreign_keys = 1
+I, [2018-02-15T13:57:00.733601 #24849]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-15T13:57:00.733823 #24849]  INFO -- : (0.000100s) SELECT sqlite_version()
+I, [2018-02-15T13:57:00.734102 #24849]  INFO -- : (0.000111s) PRAGMA table_info('collections')
+I, [2018-02-15T13:57:00.735246 #24849]  INFO -- : (0.000106s) PRAGMA table_info('gifs')
+I, [2018-02-15T13:57:00.736006 #24849]  INFO -- : (0.000040s) PRAGMA table_info('articles')
+E, [2018-02-15T13:57:00.736211 #24849] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-15T13:57:00.736742 #24849]  INFO -- : (0.000097s) PRAGMA table_info('users')
+I, [2018-02-15T13:57:08.405450 #24849]  INFO -- : (0.000061s) BEGIN
+I, [2018-02-15T13:57:08.405833 #24849]  INFO -- : (0.000161s) INSERT INTO `users` (`name`) VALUES ('xavier')
+I, [2018-02-15T13:57:08.406051 #24849]  INFO -- : (0.000093s) SELECT * FROM `users` WHERE `id` = 1
+I, [2018-02-15T13:57:08.422519 #24849]  INFO -- : (0.016396s) COMMIT
+I, [2018-02-15T13:57:11.910924 #24849]  INFO -- : (0.000051s) BEGIN
+I, [2018-02-15T13:57:11.911387 #24849]  INFO -- : (0.000186s) INSERT INTO `collections` (`name`, `tags`, `user_id`) VALUES ('cats', 'cat fun', 1)
+I, [2018-02-15T13:57:11.911679 #24849]  INFO -- : (0.000140s) SELECT * FROM `collections` WHERE `id` = 1
+I, [2018-02-15T13:57:11.925431 #24849]  INFO -- : (0.013642s) COMMIT
+I, [2018-02-16T12:03:15.539808 #12466]  INFO -- : (0.000233s) PRAGMA foreign_keys = 1
+I, [2018-02-16T12:03:15.539926 #12466]  INFO -- : (0.000032s) PRAGMA case_sensitive_like = 1
+I, [2018-02-16T12:03:15.540167 #12466]  INFO -- : (0.000107s) SELECT sqlite_version()
+I, [2018-02-16T12:03:15.540531 #12466]  INFO -- : (0.000154s) PRAGMA table_info('collections')
+I, [2018-02-16T12:03:15.541904 #12466]  INFO -- : (0.000141s) PRAGMA table_info('gifs')
+I, [2018-02-16T12:03:15.542741 #12466]  INFO -- : (0.000050s) PRAGMA table_info('articles')
+E, [2018-02-16T12:03:15.542946 #12466] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-16T12:03:15.543527 #12466]  INFO -- : (0.000109s) PRAGMA table_info('users')
+I, [2018-02-16T12:04:40.277020 #12466]  INFO -- : (0.000054s) BEGIN
+I, [2018-02-16T12:04:40.277569 #12466]  INFO -- : (0.000219s) INSERT INTO `collections` (`name`, `tags`, `user_id`) VALUES ('Pulp', 'pulp fiction', 1)
+I, [2018-02-16T12:04:40.277872 #12466]  INFO -- : (0.000133s) SELECT * FROM `collections` WHERE `id` = 2
+I, [2018-02-16T12:04:40.293141 #12466]  INFO -- : (0.015190s) COMMIT
+I, [2018-02-16T12:05:12.247922 #12466]  INFO -- : (0.000056s) BEGIN
+I, [2018-02-16T12:05:12.248298 #12466]  INFO -- : (0.000159s) INSERT INTO `collections` (`name`, `tags`, `user_id`) VALUES ('Some fruits', 'apple lemon orange', 1)
+I, [2018-02-16T12:05:12.248500 #12466]  INFO -- : (0.000097s) SELECT * FROM `collections` WHERE `id` = 3
+I, [2018-02-16T12:05:12.262018 #12466]  INFO -- : (0.013415s) COMMIT
+I, [2018-02-16T13:03:56.478786 #14615]  INFO -- : (0.000260s) PRAGMA foreign_keys = 1
+I, [2018-02-16T13:03:56.478879 #14615]  INFO -- : (0.000021s) PRAGMA case_sensitive_like = 1
+I, [2018-02-16T13:03:56.479112 #14615]  INFO -- : (0.000089s) SELECT sqlite_version()
+I, [2018-02-16T13:03:56.479413 #14615]  INFO -- : (0.000127s) PRAGMA table_info('collections')
+I, [2018-02-16T13:03:56.482106 #14615]  INFO -- : (0.000217s) PRAGMA table_info('gifs')
+I, [2018-02-16T13:03:56.483661 #14615]  INFO -- : (0.000061s) PRAGMA table_info('articles')
+E, [2018-02-16T13:03:56.483913 #14615] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-16T13:03:56.485875 #14615]  INFO -- : (0.000193s) PRAGMA table_info('users')
+I, [2018-02-16T13:04:02.663297 #14615]  INFO -- : (0.000306s) SELECT * FROM `collections`
+I, [2018-02-16T13:04:40.475171 #14615]  INFO -- : (0.000267s) SELECT * FROM `collections`
+I, [2018-02-16T13:34:34.675623 #16412]  INFO -- : (0.000227s) PRAGMA foreign_keys = 1
+I, [2018-02-16T13:34:34.675709 #16412]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-02-16T13:34:34.675897 #16412]  INFO -- : (0.000087s) SELECT sqlite_version()
+I, [2018-02-16T13:34:34.676179 #16412]  INFO -- : (0.000113s) PRAGMA table_info('collections')
+I, [2018-02-16T13:34:34.677326 #16412]  INFO -- : (0.000111s) PRAGMA table_info('gifs')
+I, [2018-02-16T13:34:34.678089 #16412]  INFO -- : (0.000036s) PRAGMA table_info('articles')
+E, [2018-02-16T13:34:34.678299 #16412] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-16T13:34:34.678847 #16412]  INFO -- : (0.000097s) PRAGMA table_info('users')
+I, [2018-02-16T13:35:38.640617 #16412]  INFO -- : (0.000069s) BEGIN
+I, [2018-02-16T13:35:38.641055 #16412]  INFO -- : (0.000186s) INSERT INTO `collections` (`name`, `tags`, `user_id`) VALUES ('hello', 'world', 1)
+I, [2018-02-16T13:35:38.641282 #16412]  INFO -- : (0.000098s) SELECT * FROM `collections` WHERE `id` = 4
+I, [2018-02-16T13:35:38.655735 #16412]  INFO -- : (0.014381s) COMMIT
+I, [2018-02-16T13:37:32.183225 #16412]  INFO -- : (0.000429s) SELECT * FROM `collections`
+I, [2018-02-16T13:39:39.352358 #16925]  INFO -- : (0.000232s) PRAGMA foreign_keys = 1
+I, [2018-02-16T13:39:39.352450 #16925]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2018-02-16T13:39:39.352648 #16925]  INFO -- : (0.000083s) SELECT sqlite_version()
+I, [2018-02-16T13:39:39.352907 #16925]  INFO -- : (0.000108s) PRAGMA table_info('collections')
+I, [2018-02-16T13:39:39.354045 #16925]  INFO -- : (0.000109s) PRAGMA table_info('gifs')
+I, [2018-02-16T13:39:39.354806 #16925]  INFO -- : (0.000037s) PRAGMA table_info('articles')
+E, [2018-02-16T13:39:39.355004 #16925] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-16T13:39:39.355557 #16925]  INFO -- : (0.000091s) PRAGMA table_info('users')
+I, [2018-02-16T13:39:50.022699 #16925]  INFO -- : (0.000166s) SELECT * FROM `collections` WHERE `id` = '4'
+I, [2018-02-16T13:39:50.036875 #16925]  INFO -- : (0.014021s) DELETE FROM `collections` WHERE `id` = 4
+I, [2018-02-16T13:41:32.157411 #17035]  INFO -- : (0.000226s) PRAGMA foreign_keys = 1
+I, [2018-02-16T13:41:32.157510 #17035]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-02-16T13:41:32.157690 #17035]  INFO -- : (0.000080s) SELECT sqlite_version()
+I, [2018-02-16T13:41:32.157971 #17035]  INFO -- : (0.000105s) PRAGMA table_info('collections')
+I, [2018-02-16T13:41:32.159123 #17035]  INFO -- : (0.000119s) PRAGMA table_info('gifs')
+I, [2018-02-16T13:41:32.159888 #17035]  INFO -- : (0.000033s) PRAGMA table_info('articles')
+E, [2018-02-16T13:41:32.160080 #17035] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-16T13:41:32.160647 #17035]  INFO -- : (0.000099s) PRAGMA table_info('users')
+I, [2018-02-16T13:41:42.935777 #17035]  INFO -- : (0.000045s) BEGIN
+I, [2018-02-16T13:41:42.936200 #17035]  INFO -- : (0.000181s) INSERT INTO `collections` (`name`, `tags`, `user_id`) VALUES ('hello', 'world', 1)
+I, [2018-02-16T13:41:42.936470 #17035]  INFO -- : (0.000120s) SELECT * FROM `collections` WHERE `id` = 5
+I, [2018-02-16T13:41:42.950862 #17035]  INFO -- : (0.014320s) COMMIT
+I, [2018-02-16T13:41:56.933358 #17035]  INFO -- : (0.000191s) SELECT * FROM `collections` WHERE `id` = '5'
+I, [2018-02-16T13:41:56.947475 #17035]  INFO -- : (0.013972s) DELETE FROM `collections` WHERE `id` = 5
+I, [2018-02-16T13:42:03.818578 #17035]  INFO -- : (0.000202s) SELECT * FROM `collections` WHERE `id` = '5'
+I, [2018-02-16T14:05:52.652544 #17035]  INFO -- : (0.000180s) SELECT * FROM `collections` WHERE `id` = '5'
+I, [2018-02-16T14:06:42.720313 #17035]  INFO -- : (0.000163s) SELECT * FROM `collections` WHERE `id` = '5'
+I, [2018-02-16T14:09:29.061831 #17035]  INFO -- : (0.000163s) SELECT * FROM `collections` WHERE `id` = '5'
+I, [2018-02-16T14:10:06.747360 #17035]  INFO -- : (0.000192s) SELECT * FROM `collections` WHERE `id` = '5'
+I, [2018-02-16T14:10:29.602110 #17035]  INFO -- : (0.000150s) SELECT * FROM `collections` WHERE `id` = '5'
+I, [2018-02-16T14:12:41.733969 #17035]  INFO -- : (0.000191s) SELECT * FROM `collections` WHERE `id` = '5'
+I, [2018-02-16T14:13:26.948502 #17035]  INFO -- : (0.000151s) SELECT * FROM `collections` WHERE `id` = '5'
+I, [2018-02-19T08:31:10.460005 #28105]  INFO -- : (0.000275s) PRAGMA foreign_keys = 1
+I, [2018-02-19T08:31:10.460325 #28105]  INFO -- : (0.000026s) PRAGMA case_sensitive_like = 1
+I, [2018-02-19T08:31:10.460802 #28105]  INFO -- : (0.000337s) SELECT sqlite_version()
+I, [2018-02-19T08:31:10.461166 #28105]  INFO -- : (0.000154s) PRAGMA table_info('collections')
+I, [2018-02-19T08:31:10.462795 #28105]  INFO -- : (0.000139s) PRAGMA table_info('gifs')
+I, [2018-02-19T08:31:10.464001 #28105]  INFO -- : (0.000056s) PRAGMA table_info('articles')
+E, [2018-02-19T08:31:10.464240 #28105] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-19T08:31:10.465263 #28105]  INFO -- : (0.000130s) PRAGMA table_info('users')
+I, [2018-02-19T08:31:21.445215 #28105]  INFO -- : (0.000193s) SELECT * FROM `collections` WHERE `id` = '99'
+I, [2018-02-19T08:32:00.112875 #28105]  INFO -- : (0.000135s) SELECT * FROM `collections` WHERE `id` = '99'
+I, [2018-02-19T08:35:15.319279 #28105]  INFO -- : (0.000188s) SELECT * FROM `collections` WHERE `id` = '99'
+I, [2018-02-19T08:39:23.444138 #28105]  INFO -- : (0.000325s) SELECT * FROM `collections`
+I, [2018-02-19T08:40:03.534225 #28105]  INFO -- : (0.000061s) BEGIN
+I, [2018-02-19T08:40:03.534878 #28105]  INFO -- : (0.000281s) INSERT INTO `collections` (`name`, `tags`, `user_id`) VALUES ('hello', 'world', 1)
+I, [2018-02-19T08:40:03.535299 #28105]  INFO -- : (0.000185s) SELECT * FROM `collections` WHERE `id` = 6
+I, [2018-02-19T08:40:03.547479 #28105]  INFO -- : (0.012075s) COMMIT
+I, [2018-02-19T08:48:24.288665 #28105]  INFO -- : (0.009663s) SELECT * FROM `users` WHERE `id` = '1'
+I, [2018-02-19T08:48:24.289866 #28105]  INFO -- : (0.000341s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-19T08:49:26.091274 #28105]  INFO -- : (0.000196s) SELECT * FROM `users` WHERE `id` = '1'
+I, [2018-02-19T08:49:26.091769 #28105]  INFO -- : (0.000291s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-19T08:50:03.041821 #28105]  INFO -- : (0.000219s) SELECT * FROM `users` WHERE `id` = '1'
+I, [2018-02-19T08:50:03.042274 #28105]  INFO -- : (0.000261s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-19T08:50:47.962954 #28105]  INFO -- : (0.000213s) SELECT * FROM `users` WHERE `id` = '1'
+I, [2018-02-19T08:50:47.963354 #28105]  INFO -- : (0.000224s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-19T08:51:22.919761 #28105]  INFO -- : (0.000190s) SELECT * FROM `users` WHERE `id` = '1'
+I, [2018-02-19T08:56:53.990974 #28105]  INFO -- : (0.000411s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-19T08:57:49.964758 #28105]  INFO -- : (0.000207s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-19T08:58:05.471540 #28105]  INFO -- : (0.000252s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-19T08:58:25.310589 #28105]  INFO -- : (0.000186s) SELECT * FROM `collections` WHERE ((`id` = '6') AND (`user_id` = '1')) LIMIT 1
+I, [2018-02-22T09:40:24.343179 #14534]  INFO -- : (0.000232s) PRAGMA foreign_keys = 1
+I, [2018-02-22T09:40:24.343690 #14534]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-02-22T09:40:24.343891 #14534]  INFO -- : (0.000096s) SELECT sqlite_version()
+I, [2018-02-22T09:40:24.344177 #14534]  INFO -- : (0.000116s) PRAGMA table_info('collections')
+I, [2018-02-22T09:40:24.345350 #14534]  INFO -- : (0.000117s) PRAGMA table_info('gifs')
+I, [2018-02-22T09:40:24.346341 #14534]  INFO -- : (0.000034s) PRAGMA table_info('articles')
+E, [2018-02-22T09:40:24.346543 #14534] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-22T09:40:24.347324 #14534]  INFO -- : (0.000110s) PRAGMA table_info('users')
+I, [2018-02-22T09:44:11.226177 #14784]  INFO -- : (0.000213s) PRAGMA foreign_keys = 1
+I, [2018-02-22T09:44:11.226269 #14784]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-22T09:44:11.226449 #14784]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2018-02-22T09:44:11.226736 #14784]  INFO -- : (0.000126s) PRAGMA table_info('collections')
+I, [2018-02-22T09:44:11.227908 #14784]  INFO -- : (0.000106s) PRAGMA table_info('gifs')
+I, [2018-02-22T09:44:11.228647 #14784]  INFO -- : (0.000034s) PRAGMA table_info('articles')
+E, [2018-02-22T09:44:11.228845 #14784] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-22T09:44:11.229384 #14784]  INFO -- : (0.000093s) PRAGMA table_info('users')
+I, [2018-02-22T09:45:13.847062 #14784]  INFO -- : (0.000059s) BEGIN
+E, [2018-02-22T09:45:13.847474 #14784] ERROR -- : SQLite3::SQLException: no such table: main.sets: INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('www.example.com/test.gif', 1)
+I, [2018-02-22T09:45:13.847690 #14784]  INFO -- : (0.000042s) ROLLBACK
+I, [2018-02-22T09:48:49.260575 #15035]  INFO -- : (0.000215s) PRAGMA foreign_keys = 1
+I, [2018-02-22T09:48:49.260664 #15035]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-22T09:48:49.260852 #15035]  INFO -- : (0.000084s) SELECT sqlite_version()
+I, [2018-02-22T09:48:49.261119 #15035]  INFO -- : (0.000114s) PRAGMA table_info('collections')
+I, [2018-02-22T09:48:49.262264 #15035]  INFO -- : (0.000116s) PRAGMA table_info('gifs')
+I, [2018-02-22T09:48:49.263088 #15035]  INFO -- : (0.000032s) PRAGMA table_info('articles')
+E, [2018-02-22T09:48:49.263279 #15035] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-22T09:48:49.263817 #15035]  INFO -- : (0.000099s) PRAGMA table_info('users')
+I, [2018-02-22T09:48:55.186721 #15035]  INFO -- : (0.000058s) BEGIN
+E, [2018-02-22T09:48:55.187079 #15035] ERROR -- : SQLite3::SQLException: no such table: main.sets: INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('www.example.com/test.gif', 1)
+I, [2018-02-22T09:48:55.187254 #15035]  INFO -- : (0.000037s) ROLLBACK
+I, [2018-02-22T09:50:07.938199 #15145]  INFO -- : (0.000216s) PRAGMA foreign_keys = 1
+I, [2018-02-22T09:50:07.938286 #15145]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-02-22T09:50:07.938483 #15145]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2018-02-22T09:50:07.938788 #15145]  INFO -- : (0.000138s) PRAGMA table_info('collections')
+I, [2018-02-22T09:50:07.939940 #15145]  INFO -- : (0.000104s) PRAGMA table_info('gifs')
+I, [2018-02-22T09:50:07.940776 #15145]  INFO -- : (0.000042s) PRAGMA table_info('articles')
+E, [2018-02-22T09:50:07.940980 #15145] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-22T09:50:07.941517 #15145]  INFO -- : (0.000110s) PRAGMA table_info('users')
+I, [2018-02-22T09:50:11.103975 #15145]  INFO -- : (0.000215s) SELECT * FROM `collections`
+I, [2018-02-22T09:50:55.296570 #15186]  INFO -- : (0.000216s) PRAGMA foreign_keys = 1
+I, [2018-02-22T09:50:55.296667 #15186]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-22T09:50:55.296845 #15186]  INFO -- : (0.000080s) SELECT sqlite_version()
+I, [2018-02-22T09:50:55.297116 #15186]  INFO -- : (0.000114s) PRAGMA table_info('collections')
+I, [2018-02-22T09:50:55.298259 #15186]  INFO -- : (0.000101s) PRAGMA table_info('gifs')
+I, [2018-02-22T09:50:55.299152 #15186]  INFO -- : (0.000044s) PRAGMA table_info('articles')
+E, [2018-02-22T09:50:55.299350 #15186] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-22T09:50:55.299888 #15186]  INFO -- : (0.000101s) PRAGMA table_info('users')
+I, [2018-02-22T09:51:01.174622 #15186]  INFO -- : (0.000048s) BEGIN
+E, [2018-02-22T09:51:01.174962 #15186] ERROR -- : SQLite3::SQLException: no such table: main.sets: INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('www.example.com/test.gif', 1)
+I, [2018-02-22T09:51:01.175122 #15186]  INFO -- : (0.000026s) ROLLBACK
+I, [2018-02-22T09:53:25.956357 #15186]  INFO -- : (0.000052s) BEGIN
+E, [2018-02-22T09:53:25.956634 #15186] ERROR -- : SQLite3::SQLException: no such table: main.sets: INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('www.example.com/test.gif', 1)
+I, [2018-02-22T09:53:25.956807 #15186]  INFO -- : (0.000030s) ROLLBACK
+I, [2018-02-22T09:53:36.948713 #15311]  INFO -- : (0.000222s) PRAGMA foreign_keys = 1
+I, [2018-02-22T09:53:36.948802 #15311]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-22T09:53:36.948985 #15311]  INFO -- : (0.000086s) SELECT sqlite_version()
+I, [2018-02-22T09:53:36.949250 #15311]  INFO -- : (0.000112s) PRAGMA table_info('collections')
+I, [2018-02-22T09:53:36.950429 #15311]  INFO -- : (0.000192s) PRAGMA table_info('gifs')
+I, [2018-02-22T09:53:36.951210 #15311]  INFO -- : (0.000045s) PRAGMA table_info('articles')
+E, [2018-02-22T09:53:36.951407 #15311] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-22T09:53:36.951958 #15311]  INFO -- : (0.000094s) PRAGMA table_info('users')
+I, [2018-02-22T09:53:43.226186 #15311]  INFO -- : (0.000124s) BEGIN
+E, [2018-02-22T09:53:43.227145 #15311] ERROR -- : SQLite3::SQLException: no such table: main.sets: INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('www.example.com/test.gif', 1)
+I, [2018-02-22T09:53:43.227689 #15311]  INFO -- : (0.000103s) ROLLBACK
+I, [2018-02-22T09:57:10.254315 #15311]  INFO -- : (0.000060s) BEGIN
+I, [2018-02-22T09:57:10.254961 #15311]  INFO -- : (0.000283s) INSERT INTO `collections` (`name`, `tags`, `user_id`) VALUES ('foo', 'world', 1)
+I, [2018-02-22T09:57:10.255329 #15311]  INFO -- : (0.000159s) SELECT * FROM `collections` WHERE `id` = 7
+I, [2018-02-22T09:57:10.268998 #15311]  INFO -- : (0.013551s) COMMIT
+I, [2018-02-22T09:58:11.910751 #15311]  INFO -- : (0.000056s) BEGIN
+E, [2018-02-22T09:58:11.911086 #15311] ERROR -- : SQLite3::SQLException: no such table: main.sets: INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('www.example.com/test.gif', 7)
+I, [2018-02-22T09:58:11.911283 #15311]  INFO -- : (0.000039s) ROLLBACK
+I, [2018-02-22T10:08:50.964391 #15866]  INFO -- : (0.000236s) PRAGMA foreign_keys = 1
+I, [2018-02-22T10:08:50.964483 #15866]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-22T10:08:50.964662 #15866]  INFO -- : (0.000087s) SELECT sqlite_version()
+I, [2018-02-22T10:08:50.964958 #15866]  INFO -- : (0.000115s) PRAGMA table_info('collections')
+I, [2018-02-22T10:08:50.966069 #15866]  INFO -- : (0.000112s) PRAGMA table_info('gifs')
+I, [2018-02-22T10:08:50.966909 #15866]  INFO -- : (0.000139s) PRAGMA table_info('articles')
+E, [2018-02-22T10:08:50.967116 #15866] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-22T10:08:50.967674 #15866]  INFO -- : (0.000094s) PRAGMA table_info('users')
+I, [2018-02-22T10:08:57.202978 #15866]  INFO -- : (0.000047s) BEGIN
+I, [2018-02-22T10:08:57.203426 #15866]  INFO -- : (0.000192s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('www.example.com/test.gif', 7)
+I, [2018-02-22T10:08:57.203691 #15866]  INFO -- : (0.000113s) SELECT * FROM `gifs` WHERE `id` = 2
+I, [2018-02-22T10:08:57.217688 #15866]  INFO -- : (0.013920s) COMMIT
+I, [2018-02-22T11:00:51.491963 #15866]  INFO -- : (0.000166s) SELECT * FROM `gifs` WHERE `id` = '2'
+I, [2018-02-22T11:00:51.505887 #15866]  INFO -- : (0.013798s) DELETE FROM `gifs` WHERE `id` = 2
+I, [2018-02-22T11:05:04.756212 #15866]  INFO -- : (0.000050s) BEGIN
+I, [2018-02-22T11:05:04.756607 #15866]  INFO -- : (0.000168s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('www.example.com/test.gif', 1)
+I, [2018-02-22T11:05:04.756847 #15866]  INFO -- : (0.000115s) SELECT * FROM `gifs` WHERE `id` = 3
+I, [2018-02-22T11:05:04.770679 #15866]  INFO -- : (0.013686s) COMMIT
+I, [2018-02-22T11:05:23.212991 #15866]  INFO -- : (0.000217s) SELECT * FROM `collections`
+I, [2018-02-22T11:05:34.818387 #15866]  INFO -- : (0.000188s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-22T11:13:58.401151 #15866]  INFO -- : (0.000275s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-22T11:13:58.402699 #15866]  INFO -- : (0.000309s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-26T07:55:22.344948 #28533]  INFO -- : (0.000452s) PRAGMA foreign_keys = 1
+I, [2018-02-26T07:55:22.345569 #28533]  INFO -- : (0.000054s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T07:55:22.345941 #28533]  INFO -- : (0.000180s) SELECT sqlite_version()
+I, [2018-02-26T07:55:22.346497 #28533]  INFO -- : (0.000233s) PRAGMA table_info('collections')
+I, [2018-02-26T07:55:22.348617 #28533]  INFO -- : (0.000183s) PRAGMA table_info('gifs')
+I, [2018-02-26T07:55:22.350645 #28533]  INFO -- : (0.000150s) PRAGMA table_info('users')
+I, [2018-02-26T07:56:18.719480 #28533]  INFO -- : (0.000199s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T07:56:19.833271 #28533]  INFO -- : (0.000193s) BEGIN
+I, [2018-02-26T07:56:19.835523 #28533]  INFO -- : (0.001084s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/lmcmJa7QX6cta/200_d.gif', 1)
+I, [2018-02-26T07:56:19.836797 #28533]  INFO -- : (0.000543s) SELECT * FROM `gifs` WHERE `id` = 4
+I, [2018-02-26T07:56:19.852093 #28533]  INFO -- : (0.014949s) COMMIT
+I, [2018-02-26T07:59:22.492201 #29013]  INFO -- : (0.000216s) PRAGMA foreign_keys = 1
+I, [2018-02-26T07:59:22.492289 #29013]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T07:59:22.492467 #29013]  INFO -- : (0.000081s) SELECT sqlite_version()
+I, [2018-02-26T07:59:22.492737 #29013]  INFO -- : (0.000112s) PRAGMA table_info('collections')
+I, [2018-02-26T07:59:22.493914 #29013]  INFO -- : (0.000127s) PRAGMA table_info('gifs')
+I, [2018-02-26T07:59:22.495084 #29013]  INFO -- : (0.000100s) PRAGMA table_info('users')
+I, [2018-02-26T07:59:30.534639 #29013]  INFO -- : (0.000174s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T07:59:31.338787 #29013]  INFO -- : (0.000194s) BEGIN
+I, [2018-02-26T07:59:31.340859 #29013]  INFO -- : (0.000865s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media0.giphy.com/media/IWmYt1UFgvqKc/200_d.gif', 1)
+I, [2018-02-26T07:59:31.341989 #29013]  INFO -- : (0.000457s) SELECT * FROM `gifs` WHERE `id` = 5
+I, [2018-02-26T07:59:31.357394 #29013]  INFO -- : (0.015076s) COMMIT
+I, [2018-02-26T08:05:32.911195 #29279]  INFO -- : (0.000214s) PRAGMA foreign_keys = 1
+I, [2018-02-26T08:05:32.911296 #29279]  INFO -- : (0.000022s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T08:05:32.911482 #29279]  INFO -- : (0.000088s) SELECT sqlite_version()
+I, [2018-02-26T08:05:32.911755 #29279]  INFO -- : (0.000114s) PRAGMA table_info('collections')
+I, [2018-02-26T08:05:32.912879 #29279]  INFO -- : (0.000099s) PRAGMA table_info('gifs')
+I, [2018-02-26T08:05:32.914003 #29279]  INFO -- : (0.000095s) PRAGMA table_info('users')
+I, [2018-02-26T08:05:35.477043 #29279]  INFO -- : (0.000168s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T08:05:36.239590 #29279]  INFO -- : (0.000196s) BEGIN
+I, [2018-02-26T08:05:36.241541 #29279]  INFO -- : (0.000848s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media2.giphy.com/media/oIfB1itOC4QVy/200_d.gif', 1)
+I, [2018-02-26T08:05:36.242725 #29279]  INFO -- : (0.000521s) SELECT * FROM `gifs` WHERE `id` = 6
+I, [2018-02-26T08:05:36.259453 #29279]  INFO -- : (0.016291s) COMMIT
+I, [2018-02-26T08:08:53.969238 #29488]  INFO -- : (0.000233s) PRAGMA foreign_keys = 1
+I, [2018-02-26T08:08:53.969326 #29488]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T08:08:53.969520 #29488]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2018-02-26T08:08:53.969793 #29488]  INFO -- : (0.000109s) PRAGMA table_info('collections')
+I, [2018-02-26T08:08:53.971078 #29488]  INFO -- : (0.000122s) PRAGMA table_info('gifs')
+I, [2018-02-26T08:08:53.972406 #29488]  INFO -- : (0.000101s) PRAGMA table_info('users')
+I, [2018-02-26T08:09:32.152218 #29488]  INFO -- : (0.000198s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T08:09:32.904494 #29488]  INFO -- : (0.000277s) BEGIN
+I, [2018-02-26T08:09:32.906199 #29488]  INFO -- : (0.000733s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/bf3d204e385f4a6d61dbe5e08840e4d3/tenor.gif', 1)
+I, [2018-02-26T08:09:32.907318 #29488]  INFO -- : (0.000463s) SELECT * FROM `gifs` WHERE `id` = 7
+I, [2018-02-26T08:09:32.922525 #29488]  INFO -- : (0.014910s) COMMIT
+I, [2018-02-26T09:13:25.123760 #32266]  INFO -- : (0.000237s) PRAGMA foreign_keys = 1
+I, [2018-02-26T09:13:25.123852 #32266]  INFO -- : (0.000021s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T09:13:25.124045 #32266]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2018-02-26T09:13:25.124335 #32266]  INFO -- : (0.000111s) PRAGMA table_info('collections')
+I, [2018-02-26T09:13:25.125510 #32266]  INFO -- : (0.000118s) PRAGMA table_info('gifs')
+I, [2018-02-26T09:13:25.127598 #32266]  INFO -- : (0.000119s) PRAGMA table_info('users')
+I, [2018-02-26T09:13:31.504003 #32266]  INFO -- : (0.000192s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:13:32.272612 #32266]  INFO -- : (0.000220s) BEGIN
+I, [2018-02-26T09:13:32.275661 #32266]  INFO -- : (0.001547s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/c0c3da8e65aa559d5b2daf188cfbb516/tenor.gif', 1)
+I, [2018-02-26T09:13:32.277353 #32266]  INFO -- : (0.000663s) SELECT * FROM `gifs` WHERE `id` = 8
+I, [2018-02-26T09:13:32.293365 #32266]  INFO -- : (0.015568s) COMMIT
+I, [2018-02-26T09:13:35.806426 #32266]  INFO -- : (0.000214s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:13:36.558319 #32266]  INFO -- : (0.000227s) BEGIN
+I, [2018-02-26T09:13:36.559926 #32266]  INFO -- : (0.000657s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/579a87d12d4ca4ed0eb15684fe184910/tenor.gif', 1)
+I, [2018-02-26T09:13:36.560941 #32266]  INFO -- : (0.000491s) SELECT * FROM `gifs` WHERE `id` = 9
+I, [2018-02-26T09:13:36.577273 #32266]  INFO -- : (0.016042s) COMMIT
+I, [2018-02-26T09:13:41.329031 #32266]  INFO -- : (0.000237s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:13:42.954345 #32266]  INFO -- : (0.000193s) BEGIN
+I, [2018-02-26T09:13:42.955953 #32266]  INFO -- : (0.000660s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/6c07129c77e6c6df825a3e4af4710406/tenor.gif', 1)
+I, [2018-02-26T09:13:42.957026 #32266]  INFO -- : (0.000542s) SELECT * FROM `gifs` WHERE `id` = 10
+I, [2018-02-26T09:13:42.972524 #32266]  INFO -- : (0.015168s) COMMIT
+I, [2018-02-26T09:13:48.544369 #32266]  INFO -- : (0.000250s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:18:14.483767 #32622]  INFO -- : (0.000247s) PRAGMA foreign_keys = 1
+I, [2018-02-26T09:18:14.483879 #32622]  INFO -- : (0.000027s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T09:18:14.484097 #32622]  INFO -- : (0.000099s) SELECT sqlite_version()
+I, [2018-02-26T09:18:14.484438 #32622]  INFO -- : (0.000147s) PRAGMA table_info('collections')
+I, [2018-02-26T09:18:14.485887 #32622]  INFO -- : (0.000169s) PRAGMA table_info('gifs')
+I, [2018-02-26T09:18:14.488292 #32622]  INFO -- : (0.000138s) PRAGMA table_info('users')
+I, [2018-02-26T09:18:19.330498 #32622]  INFO -- : (0.000204s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:19:13.251994 #32679]  INFO -- : (0.000219s) PRAGMA foreign_keys = 1
+I, [2018-02-26T09:19:13.252084 #32679]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T09:19:13.252285 #32679]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2018-02-26T09:19:13.252569 #32679]  INFO -- : (0.000124s) PRAGMA table_info('collections')
+I, [2018-02-26T09:19:13.253729 #32679]  INFO -- : (0.000116s) PRAGMA table_info('gifs')
+I, [2018-02-26T09:19:13.255790 #32679]  INFO -- : (0.000103s) PRAGMA table_info('users')
+I, [2018-02-26T09:19:20.330802 #32679]  INFO -- : (0.000183s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:19:31.087061 #32679]  INFO -- : (0.000189s) BEGIN
+I, [2018-02-26T09:19:31.088115 #32679]  INFO -- : (0.000457s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/6053a388862389b12d31c294faf1c5b0/tenor.gif', 1)
+I, [2018-02-26T09:19:31.088701 #32679]  INFO -- : (0.000242s) SELECT * FROM `gifs` WHERE `id` = 11
+I, [2018-02-26T09:19:31.103175 #32679]  INFO -- : (0.014288s) COMMIT
+I, [2018-02-26T09:19:36.285348 #32679]  INFO -- : (0.000232s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:19:37.470756 #32679]  INFO -- : (0.000181s) BEGIN
+I, [2018-02-26T09:19:37.472297 #32679]  INFO -- : (0.000686s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/25fd616a97e86716916c41bb56349efe/tenor.gif', 1)
+I, [2018-02-26T09:19:37.473565 #32679]  INFO -- : (0.000648s) SELECT * FROM `gifs` WHERE `id` = 12
+I, [2018-02-26T09:19:37.488678 #32679]  INFO -- : (0.014804s) COMMIT
+I, [2018-02-26T09:19:42.001324 #32679]  INFO -- : (0.000217s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:21:10.538785 #376]  INFO -- : (0.000232s) PRAGMA foreign_keys = 1
+I, [2018-02-26T09:21:10.538905 #376]  INFO -- : (0.000025s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T09:21:10.539117 #376]  INFO -- : (0.000091s) SELECT sqlite_version()
+I, [2018-02-26T09:21:10.539463 #376]  INFO -- : (0.000140s) PRAGMA table_info('collections')
+I, [2018-02-26T09:21:10.540808 #376]  INFO -- : (0.000133s) PRAGMA table_info('gifs')
+I, [2018-02-26T09:21:10.542866 #376]  INFO -- : (0.000127s) PRAGMA table_info('users')
+I, [2018-02-26T09:21:13.696868 #376]  INFO -- : (0.000185s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:24:35.007742 #376]  INFO -- : (0.000354s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:26:03.130993 #822]  INFO -- : (0.000232s) PRAGMA foreign_keys = 1
+I, [2018-02-26T09:26:03.131088 #822]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T09:26:03.131283 #822]  INFO -- : (0.000082s) SELECT sqlite_version()
+I, [2018-02-26T09:26:03.131546 #822]  INFO -- : (0.000109s) PRAGMA table_info('collections')
+I, [2018-02-26T09:26:03.132702 #822]  INFO -- : (0.000101s) PRAGMA table_info('gifs')
+I, [2018-02-26T09:26:03.137042 #822]  INFO -- : (0.000174s) PRAGMA table_info('users')
+I, [2018-02-26T09:26:07.080677 #822]  INFO -- : (0.000165s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:26:08.128180 #822]  INFO -- : (0.000085s) BEGIN
+I, [2018-02-26T09:26:08.128729 #822]  INFO -- : (0.000240s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media1.giphy.com/media/u3aBqZTriYczS/200_d.gif', 1)
+I, [2018-02-26T09:26:08.129029 #822]  INFO -- : (0.000125s) SELECT * FROM `gifs` WHERE `id` = 13
+I, [2018-02-26T09:26:08.150291 #822]  INFO -- : (0.021130s) COMMIT
+I, [2018-02-26T09:26:36.968625 #896]  INFO -- : (0.000215s) PRAGMA foreign_keys = 1
+I, [2018-02-26T09:26:36.968713 #896]  INFO -- : (0.000025s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T09:26:36.968909 #896]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2018-02-26T09:26:36.969183 #896]  INFO -- : (0.000111s) PRAGMA table_info('collections')
+I, [2018-02-26T09:26:36.971324 #896]  INFO -- : (0.000124s) PRAGMA table_info('gifs')
+I, [2018-02-26T09:26:36.972846 #896]  INFO -- : (0.000106s) PRAGMA table_info('users')
+I, [2018-02-26T09:26:40.529514 #896]  INFO -- : (0.000186s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:26:41.608803 #896]  INFO -- : (0.000237s) BEGIN
+I, [2018-02-26T09:26:41.610884 #896]  INFO -- : (0.000874s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/16d394c947d70111253f95ab7a3166f2/tenor.gif', 1)
+I, [2018-02-26T09:26:41.612084 #896]  INFO -- : (0.000492s) SELECT * FROM `gifs` WHERE `id` = 14
+I, [2018-02-26T09:26:41.628826 #896]  INFO -- : (0.016405s) COMMIT
+I, [2018-02-26T09:26:44.028671 #896]  INFO -- : (0.000269s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:26:44.941736 #896]  INFO -- : (0.000055s) BEGIN
+I, [2018-02-26T09:26:44.942090 #896]  INFO -- : (0.000145s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media2.giphy.com/media/zZ1ymKURVTBKg/200_d.gif', 1)
+I, [2018-02-26T09:26:44.942310 #896]  INFO -- : (0.000111s) SELECT * FROM `gifs` WHERE `id` = 15
+I, [2018-02-26T09:26:44.956963 #896]  INFO -- : (0.014576s) COMMIT
+I, [2018-02-26T09:31:08.022116 #1345]  INFO -- : (0.000219s) PRAGMA foreign_keys = 1
+I, [2018-02-26T09:31:08.022197 #1345]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T09:31:08.022394 #1345]  INFO -- : (0.000105s) SELECT sqlite_version()
+I, [2018-02-26T09:31:08.022677 #1345]  INFO -- : (0.000130s) PRAGMA table_info('collections')
+I, [2018-02-26T09:31:08.023969 #1345]  INFO -- : (0.000118s) PRAGMA table_info('gifs')
+I, [2018-02-26T09:31:08.025519 #1345]  INFO -- : (0.000096s) PRAGMA table_info('users')
+I, [2018-02-26T09:31:11.438262 #1345]  INFO -- : (0.000194s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-26T09:31:12.452849 #1345]  INFO -- : (0.000193s) BEGIN
+I, [2018-02-26T09:31:12.454804 #1345]  INFO -- : (0.000867s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('http://25.media.tumblr.com/tumblr_m4ga9zNip91qhwmnpo1_250.jpg', 1)
+I, [2018-02-26T09:31:12.455434 #1345]  INFO -- : (0.000140s) SELECT * FROM `gifs` WHERE `id` = 16
+I, [2018-02-26T09:31:12.470140 #1345]  INFO -- : (0.014584s) COMMIT
+I, [2018-02-26T09:44:14.879217 #3078]  INFO -- : (0.000218s) PRAGMA foreign_keys = 1
+I, [2018-02-26T09:44:14.879300 #3078]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T09:44:14.879492 #3078]  INFO -- : (0.000084s) SELECT sqlite_version()
+I, [2018-02-26T09:44:14.879742 #3078]  INFO -- : (0.000108s) PRAGMA table_info('collections')
+I, [2018-02-26T09:44:14.880828 #3078]  INFO -- : (0.000098s) PRAGMA table_info('gifs')
+I, [2018-02-26T09:44:14.882245 #3078]  INFO -- : (0.000098s) PRAGMA table_info('users')
+I, [2018-02-26T09:45:27.723313 #3078]  INFO -- : (0.000210s) SELECT * FROM `users` WHERE `id` = '1'
+I, [2018-02-26T09:48:23.817811 #3318]  INFO -- : (0.000210s) PRAGMA foreign_keys = 1
+I, [2018-02-26T09:48:23.817927 #3318]  INFO -- : (0.000047s) PRAGMA case_sensitive_like = 1
+I, [2018-02-26T09:48:23.818110 #3318]  INFO -- : (0.000082s) SELECT sqlite_version()
+I, [2018-02-26T09:48:23.818389 #3318]  INFO -- : (0.000106s) PRAGMA table_info('collections')
+I, [2018-02-26T09:48:23.819555 #3318]  INFO -- : (0.000100s) PRAGMA table_info('gifs')
+I, [2018-02-26T09:48:23.821194 #3318]  INFO -- : (0.000104s) PRAGMA table_info('users')
+I, [2018-02-26T09:48:25.924787 #3318]  INFO -- : (0.000164s) SELECT * FROM `users` WHERE `id` = '1'
+I, [2018-02-26T09:48:25.925730 #3318]  INFO -- : (0.000173s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-26T09:49:50.470612 #3318]  INFO -- : (0.000232s) SELECT * FROM `users` WHERE `id` = '1'
+I, [2018-02-26T09:49:50.471421 #3318]  INFO -- : (0.000229s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T08:45:43.898828 #21915]  INFO -- : (0.000210s) PRAGMA foreign_keys = 1
+I, [2018-02-27T08:45:43.898930 #21915]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T08:45:43.899141 #21915]  INFO -- : (0.000084s) SELECT sqlite_version()
+I, [2018-02-27T08:45:43.899425 #21915]  INFO -- : (0.000128s) PRAGMA table_info('collections')
+I, [2018-02-27T08:45:43.900565 #21915]  INFO -- : (0.000100s) PRAGMA table_info('gifs')
+I, [2018-02-27T08:45:43.902226 #21915]  INFO -- : (0.000098s) PRAGMA table_info('users')
+I, [2018-02-27T08:45:51.789793 #21915]  INFO -- : (0.000179s) SELECT * FROM `users` WHERE `id` = '1'
+I, [2018-02-27T08:45:51.790776 #21915]  INFO -- : (0.000205s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T08:46:02.727666 #21915]  INFO -- : (0.000213s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T08:46:02.728392 #21915]  INFO -- : (0.000202s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T08:46:19.098639 #21915]  INFO -- : (0.000160s) SELECT * FROM `users` WHERE (`name` = 'xaviera') LIMIT 1
+I, [2018-02-27T08:51:40.171837 #22732]  INFO -- : (0.000214s) PRAGMA foreign_keys = 1
+I, [2018-02-27T08:51:40.171937 #22732]  INFO -- : (0.000022s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T08:51:40.172149 #22732]  INFO -- : (0.000086s) SELECT sqlite_version()
+I, [2018-02-27T08:51:40.172436 #22732]  INFO -- : (0.000116s) PRAGMA table_info('collections')
+I, [2018-02-27T08:51:40.173582 #22732]  INFO -- : (0.000100s) PRAGMA table_info('gifs')
+I, [2018-02-27T08:51:40.175282 #22732]  INFO -- : (0.000109s) PRAGMA table_info('users')
+I, [2018-02-27T08:54:34.543101 #22886]  INFO -- : (0.000226s) PRAGMA foreign_keys = 1
+I, [2018-02-27T08:54:34.543199 #22886]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T08:54:34.543414 #22886]  INFO -- : (0.000092s) SELECT sqlite_version()
+I, [2018-02-27T08:54:34.543695 #22886]  INFO -- : (0.000132s) PRAGMA table_info('collections')
+I, [2018-02-27T08:54:34.544849 #22886]  INFO -- : (0.000098s) PRAGMA table_info('gifs')
+I, [2018-02-27T08:54:34.546503 #22886]  INFO -- : (0.000106s) PRAGMA table_info('users')
+I, [2018-02-27T08:58:28.642426 #23238]  INFO -- : (0.000216s) PRAGMA foreign_keys = 1
+I, [2018-02-27T08:58:28.642517 #23238]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T08:58:28.644392 #23238]  INFO -- : (0.000105s) SELECT sqlite_version()
+I, [2018-02-27T08:58:28.644695 #23238]  INFO -- : (0.000111s) PRAGMA table_info('collections')
+I, [2018-02-27T08:58:28.645902 #23238]  INFO -- : (0.000099s) PRAGMA table_info('gifs')
+I, [2018-02-27T08:58:28.647644 #23238]  INFO -- : (0.000103s) PRAGMA table_info('users')
+I, [2018-02-27T08:58:41.458365 #23238]  INFO -- : (0.000169s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T08:58:41.459160 #23238]  INFO -- : (0.000140s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T09:00:51.349523 #23238]  INFO -- : (0.000165s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T09:00:51.350061 #23238]  INFO -- : (0.000148s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T09:04:14.232686 #23238]  INFO -- : (0.000166s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T09:04:14.233203 #23238]  INFO -- : (0.000139s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T09:10:24.173015 #23238]  INFO -- : (0.000200s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T09:10:24.173698 #23238]  INFO -- : (0.000205s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T09:42:36.980784 #29572]  INFO -- : (0.000253s) PRAGMA foreign_keys = 1
+I, [2018-02-27T09:42:36.980908 #29572]  INFO -- : (0.000022s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T09:42:36.981173 #29572]  INFO -- : (0.000108s) SELECT sqlite_version()
+I, [2018-02-27T09:42:36.981517 #29572]  INFO -- : (0.000133s) PRAGMA table_info('collections')
+I, [2018-02-27T09:42:36.983006 #29572]  INFO -- : (0.000149s) PRAGMA table_info('gifs')
+I, [2018-02-27T09:42:36.985083 #29572]  INFO -- : (0.000135s) PRAGMA table_info('users')
+I, [2018-02-27T09:42:58.959224 #29572]  INFO -- : (0.000150s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T09:42:58.959988 #29572]  INFO -- : (0.000150s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T09:53:30.221815 #30566]  INFO -- : (0.000215s) PRAGMA foreign_keys = 1
+I, [2018-02-27T09:53:30.221925 #30566]  INFO -- : (0.000025s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T09:53:30.222136 #30566]  INFO -- : (0.000115s) SELECT sqlite_version()
+I, [2018-02-27T09:53:30.222406 #30566]  INFO -- : (0.000118s) PRAGMA table_info('collections')
+I, [2018-02-27T09:53:30.223693 #30566]  INFO -- : (0.000137s) PRAGMA table_info('gifs')
+I, [2018-02-27T09:53:30.225575 #30566]  INFO -- : (0.000117s) PRAGMA table_info('users')
+I, [2018-02-27T09:53:42.773893 #30566]  INFO -- : (0.000155s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T09:53:42.774606 #30566]  INFO -- : (0.000130s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T09:54:21.042985 #30566]  INFO -- : (0.000162s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T09:54:21.043494 #30566]  INFO -- : (0.000135s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T09:55:07.855414 #30566]  INFO -- : (0.000171s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T09:55:07.856031 #30566]  INFO -- : (0.000187s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T09:56:11.170723 #30566]  INFO -- : (0.000142s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T09:56:11.171219 #30566]  INFO -- : (0.000120s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T09:57:22.178043 #30566]  INFO -- : (0.000192s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T09:57:22.178589 #30566]  INFO -- : (0.000150s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T10:00:13.227832 #30566]  INFO -- : (0.000258s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T10:00:13.228700 #30566]  INFO -- : (0.000238s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T10:08:43.389475 #30566]  INFO -- : (0.000203s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T10:08:43.390136 #30566]  INFO -- : (0.000189s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T10:08:43.411725 #30566]  INFO -- : (0.000448s) SELECT * FROM `collections`
+I, [2018-02-27T10:09:36.703992 #30566]  INFO -- : (0.000202s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T10:09:36.705047 #30566]  INFO -- : (0.000214s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T10:09:36.728733 #30566]  INFO -- : (0.000264s) SELECT * FROM `collections`
+I, [2018-02-27T10:11:42.601766 #30566]  INFO -- : (0.000280s) SELECT * FROM `collections`
+I, [2018-02-27T10:12:01.669369 #30566]  INFO -- : (0.000197s) SELECT * FROM `collections`
+I, [2018-02-27T10:12:08.952751 #30566]  INFO -- : (0.000293s) SELECT * FROM `collections`
+I, [2018-02-27T10:16:17.103611 #32119]  INFO -- : (0.000238s) PRAGMA foreign_keys = 1
+I, [2018-02-27T10:16:17.103707 #32119]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T10:16:17.103917 #32119]  INFO -- : (0.000090s) SELECT sqlite_version()
+I, [2018-02-27T10:16:17.104270 #32119]  INFO -- : (0.000176s) PRAGMA table_info('collections')
+I, [2018-02-27T10:16:17.105600 #32119]  INFO -- : (0.000146s) PRAGMA table_info('gifs')
+I, [2018-02-27T10:16:17.107405 #32119]  INFO -- : (0.000131s) PRAGMA table_info('users')
+I, [2018-02-27T10:16:23.695686 #32119]  INFO -- : (0.000210s) SELECT * FROM `collections` WHERE (`user_id` = '2')
+I, [2018-02-27T10:16:28.392596 #32119]  INFO -- : (0.000349s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T10:18:15.582204 #32119]  INFO -- : (0.000207s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T10:18:15.583409 #32119]  INFO -- : (0.000279s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T10:18:15.605661 #32119]  INFO -- : (0.000317s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T10:19:27.159047 #32119]  INFO -- : (0.000216s) SELECT * FROM `collections` WHERE (`user_id` = '2')
+I, [2018-02-27T10:19:41.331864 #32119]  INFO -- : (0.000189s) SELECT * FROM `collections` WHERE (`user_id` = '2')
+I, [2018-02-27T10:21:45.362132 #32119]  INFO -- : (0.000200s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T10:22:56.802371 #32751]  INFO -- : (0.000411s) PRAGMA foreign_keys = 1
+I, [2018-02-27T10:22:56.802581 #32751]  INFO -- : (0.000038s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T10:22:56.802944 #32751]  INFO -- : (0.000185s) SELECT sqlite_version()
+I, [2018-02-27T10:22:56.803451 #32751]  INFO -- : (0.000213s) PRAGMA table_info('collections')
+I, [2018-02-27T10:22:56.805660 #32751]  INFO -- : (0.000215s) PRAGMA table_info('gifs')
+I, [2018-02-27T10:22:56.808432 #32751]  INFO -- : (0.000186s) PRAGMA table_info('users')
+I, [2018-02-27T10:23:04.896376 #32751]  INFO -- : (0.000193s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T10:24:33.299144 #32751]  INFO -- : (0.000265s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T10:24:33.300254 #32751]  INFO -- : (0.000269s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T10:24:33.364345 #32751]  INFO -- : (0.000360s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T11:54:19.732837 #32751]  INFO -- : (0.000202s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T11:54:19.733566 #32751]  INFO -- : (0.000220s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T11:54:19.751268 #32751]  INFO -- : (0.000227s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T11:55:52.592572 #32751]  INFO -- : (0.000172s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T11:55:52.593171 #32751]  INFO -- : (0.000174s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T11:55:52.612133 #32751]  INFO -- : (0.000204s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T11:58:39.053450 #32751]  INFO -- : (0.000197s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T11:58:39.054193 #32751]  INFO -- : (0.000173s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T11:58:39.073190 #32751]  INFO -- : (0.000447s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T11:59:30.709387 #32751]  INFO -- : (0.000234s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T11:59:30.710228 #32751]  INFO -- : (0.000260s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T11:59:30.798724 #32751]  INFO -- : (0.000224s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T12:00:23.112353 #32751]  INFO -- : (0.000210s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T12:00:23.113435 #32751]  INFO -- : (0.000565s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T12:00:23.134255 #32751]  INFO -- : (0.000438s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T12:01:23.880845 #32751]  INFO -- : (0.000171s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T12:01:23.881358 #32751]  INFO -- : (0.000138s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T12:01:23.898175 #32751]  INFO -- : (0.000209s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T13:14:00.968346 #32751]  INFO -- : (0.000250s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T13:14:00.969071 #32751]  INFO -- : (0.000190s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T13:14:00.994628 #32751]  INFO -- : (0.000227s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T13:38:09.306771 #32751]  INFO -- : (0.000439s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T13:38:09.308781 #32751]  INFO -- : (0.000176s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T13:38:09.332659 #32751]  INFO -- : (0.000196s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T13:38:20.955931 #32751]  INFO -- : (0.000233s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T13:38:38.305970 #32751]  INFO -- : (0.000214s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T13:38:38.306738 #32751]  INFO -- : (0.000256s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T13:38:38.328768 #32751]  INFO -- : (0.000205s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T13:40:39.822733 #14962]  INFO -- : (0.000234s) PRAGMA foreign_keys = 1
+I, [2018-02-27T13:40:39.822847 #14962]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T13:40:39.823029 #14962]  INFO -- : (0.000089s) SELECT sqlite_version()
+I, [2018-02-27T13:40:39.823319 #14962]  INFO -- : (0.000105s) PRAGMA table_info('collections')
+I, [2018-02-27T13:40:39.824629 #14962]  INFO -- : (0.000103s) PRAGMA table_info('gifs')
+I, [2018-02-27T13:40:39.826641 #14962]  INFO -- : (0.000096s) PRAGMA table_info('users')
+I, [2018-02-27T13:40:48.112492 #14962]  INFO -- : (0.000167s) SELECT * FROM `collections` WHERE `id` = '2'
+I, [2018-02-27T13:40:48.115652 #14962]  INFO -- : (0.000157s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 2)
+I, [2018-02-27T13:41:09.875452 #14962]  INFO -- : (0.000160s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T13:41:09.876256 #14962]  INFO -- : (0.000152s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T13:41:09.898938 #14962]  INFO -- : (0.000242s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T13:41:12.909344 #14962]  INFO -- : (0.000184s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-27T13:41:12.909973 #14962]  INFO -- : (0.000190s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-27T13:45:37.314517 #14962]  INFO -- : (0.000300s) SELECT * FROM `collections` WHERE (`user_id` = '')
+I, [2018-02-27T16:16:43.777809 #14962]  INFO -- : (0.000411s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T16:16:43.779750 #14962]  INFO -- : (0.000160s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T16:16:43.819382 #14962]  INFO -- : (0.000218s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:18:21.657492 #14962]  INFO -- : (0.000202s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:18:52.294813 #14962]  INFO -- : (0.000162s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T16:18:52.295289 #14962]  INFO -- : (0.000134s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T16:18:52.327152 #14962]  INFO -- : (0.000228s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:21:13.347731 #14962]  INFO -- : (0.000175s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T16:21:13.348429 #14962]  INFO -- : (0.000207s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T16:21:13.372145 #14962]  INFO -- : (0.000210s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:21:26.421644 #14962]  INFO -- : (0.000160s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-27T16:21:26.422216 #14962]  INFO -- : (0.000177s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-27T16:22:54.086881 #14962]  INFO -- : (0.000174s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T16:22:54.087367 #14962]  INFO -- : (0.000136s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T16:22:54.119739 #14962]  INFO -- : (0.000246s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:23:40.392773 #14962]  INFO -- : (0.000158s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T16:23:40.394024 #14962]  INFO -- : (0.000219s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T16:23:40.407961 #14962]  INFO -- : (0.000178s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:26:18.287492 #14962]  INFO -- : (0.000177s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T16:26:18.288249 #14962]  INFO -- : (0.000243s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T16:26:18.306035 #14962]  INFO -- : (0.000229s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:27:29.569452 #14962]  INFO -- : (0.000159s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T16:27:29.570013 #14962]  INFO -- : (0.000162s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T16:27:29.603091 #14962]  INFO -- : (0.000212s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:27:39.980475 #14962]  INFO -- : (0.000290s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:31:16.597873 #14962]  INFO -- : (0.000167s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T16:31:16.598416 #14962]  INFO -- : (0.000146s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T16:31:16.618361 #14962]  INFO -- : (0.000195s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T16:31:21.138475 #14962]  INFO -- : (0.000182s) SELECT * FROM `collections` WHERE `id` = '2'
+I, [2018-02-27T16:31:21.139042 #14962]  INFO -- : (0.000117s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 2)
+I, [2018-02-27T16:36:06.834271 #14962]  INFO -- : (0.000199s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T16:36:06.834937 #14962]  INFO -- : (0.000208s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T16:36:06.856621 #14962]  INFO -- : (0.000200s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T19:28:50.455392 #21472]  INFO -- : (0.004095s) PRAGMA foreign_keys = 1
+I, [2018-02-27T19:28:50.457393 #21472]  INFO -- : (0.000105s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T19:28:50.458307 #21472]  INFO -- : (0.000432s) SELECT sqlite_version()
+I, [2018-02-27T19:28:50.459292 #21472]  INFO -- : (0.000360s) PRAGMA table_info('collections')
+I, [2018-02-27T19:28:50.463038 #21472]  INFO -- : (0.000357s) PRAGMA table_info('gifs')
+I, [2018-02-27T19:28:50.467428 #21472]  INFO -- : (0.000225s) PRAGMA table_info('users')
+I, [2018-02-27T19:29:05.444948 #21472]  INFO -- : (0.000186s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T19:29:10.926045 #21472]  INFO -- : (0.000238s) SELECT * FROM `collections` WHERE `id` = '7'
+I, [2018-02-27T19:29:10.928914 #21472]  INFO -- : (0.000161s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 7)
+I, [2018-02-27T19:30:10.717456 #21472]  INFO -- : (0.000193s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T19:30:10.718689 #21472]  INFO -- : (0.000222s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T19:30:10.787929 #21472]  INFO -- : (0.000346s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T19:30:12.728930 #21472]  INFO -- : (0.000159s) SELECT * FROM `collections` WHERE `id` = '7'
+I, [2018-02-27T19:30:12.729424 #21472]  INFO -- : (0.000096s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 7)
+I, [2018-02-27T19:32:05.224858 #21472]  INFO -- : (0.000169s) SELECT * FROM `collections` WHERE `id` = '7'
+I, [2018-02-27T19:32:05.238699 #21472]  INFO -- : (0.013683s) DELETE FROM `collections` WHERE `id` = 7
+I, [2018-02-27T19:32:05.258321 #21472]  INFO -- : (0.000204s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T20:19:28.035668 #23239]  INFO -- : (0.000243s) PRAGMA foreign_keys = 1
+I, [2018-02-27T20:19:28.035759 #23239]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T20:19:28.035945 #23239]  INFO -- : (0.000084s) SELECT sqlite_version()
+I, [2018-02-27T20:19:28.036236 #23239]  INFO -- : (0.000105s) PRAGMA table_info('collections')
+I, [2018-02-27T20:19:28.037388 #23239]  INFO -- : (0.000100s) PRAGMA table_info('gifs')
+I, [2018-02-27T20:19:28.039070 #23239]  INFO -- : (0.000105s) PRAGMA table_info('users')
+I, [2018-02-27T20:19:41.537777 #23239]  INFO -- : (0.000275s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T20:24:06.721246 #23239]  INFO -- : (0.000202s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T20:24:06.722171 #23239]  INFO -- : (0.000152s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T20:24:06.766659 #23239]  INFO -- : (0.000215s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T20:24:49.700326 #23239]  INFO -- : (0.000053s) BEGIN
+I, [2018-02-27T20:24:49.700816 #23239]  INFO -- : (0.000221s) INSERT INTO `collections` (`name`, `tags`, `user_id`) VALUES ('Test Wall', 'ok', 1)
+I, [2018-02-27T20:24:49.701093 #23239]  INFO -- : (0.000112s) SELECT * FROM `collections` WHERE `id` = 9
+I, [2018-02-27T20:24:49.713412 #23239]  INFO -- : (0.012236s) COMMIT
+I, [2018-02-27T20:24:49.765418 #23239]  INFO -- : (0.000243s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T20:24:54.605184 #23239]  INFO -- : (0.000200s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-27T20:24:54.606079 #23239]  INFO -- : (0.000128s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-27T20:44:47.331971 #25236]  INFO -- : (0.000204s) PRAGMA foreign_keys = 1
+I, [2018-02-27T20:44:47.332083 #25236]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-02-27T20:44:47.332272 #25236]  INFO -- : (0.000081s) SELECT sqlite_version()
+I, [2018-02-27T20:44:47.332541 #25236]  INFO -- : (0.000106s) PRAGMA table_info('collections')
+I, [2018-02-27T20:44:47.333648 #25236]  INFO -- : (0.000095s) PRAGMA table_info('gifs')
+I, [2018-02-27T20:44:47.335272 #25236]  INFO -- : (0.000099s) PRAGMA table_info('users')
+I, [2018-02-27T20:45:54.325089 #25236]  INFO -- : (0.000151s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T20:45:54.325793 #25236]  INFO -- : (0.000133s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T20:45:54.342493 #25236]  INFO -- : (0.000202s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T20:46:03.166873 #25236]  INFO -- : (0.000206s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-27T20:46:03.167898 #25236]  INFO -- : (0.000143s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 6)
+I, [2018-02-27T20:46:16.772008 #25236]  INFO -- : (0.000152s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T20:46:16.772517 #25236]  INFO -- : (0.000136s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T20:46:16.792268 #25236]  INFO -- : (0.000185s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T20:46:19.691304 #25236]  INFO -- : (0.000208s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-27T20:46:19.692214 #25236]  INFO -- : (0.000314s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-27T20:46:30.751730 #25236]  INFO -- : (0.000152s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-27T20:46:30.752215 #25236]  INFO -- : (0.000155s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-27T20:46:30.770499 #25236]  INFO -- : (0.000184s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T20:47:32.875158 #25236]  INFO -- : (0.000225s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-27T20:47:38.209944 #25236]  INFO -- : (0.000168s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-27T20:47:38.210697 #25236]  INFO -- : (0.000147s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 6)
+I, [2018-02-27T20:47:47.916509 #25236]  INFO -- : (0.000154s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-27T20:47:48.436640 #25236]  INFO -- : (0.000069s) BEGIN
+I, [2018-02-27T20:47:48.437106 #25236]  INFO -- : (0.000214s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media1.giphy.com/media/dSeSjCWODmQfO9CgWl/200_d.gif', 6)
+I, [2018-02-27T20:47:48.437348 #25236]  INFO -- : (0.000103s) SELECT * FROM `gifs` WHERE `id` = 17
+I, [2018-02-27T20:47:48.456702 #25236]  INFO -- : (0.019265s) COMMIT
+I, [2018-02-27T20:47:48.483910 #25236]  INFO -- : (0.000233s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-27T20:47:48.485116 #25236]  INFO -- : (0.000322s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 6)
+I, [2018-02-27T20:48:16.632250 #25236]  INFO -- : (0.000186s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-27T20:48:17.343489 #25236]  INFO -- : (0.000170s) BEGIN
+I, [2018-02-27T20:48:17.344846 #25236]  INFO -- : (0.000635s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/cRMgBzuOlaJZi7C5fJ/200_d.gif', 6)
+I, [2018-02-27T20:48:17.346824 #25236]  INFO -- : (0.001303s) SELECT * FROM `gifs` WHERE `id` = 18
+I, [2018-02-27T20:48:17.361372 #25236]  INFO -- : (0.014225s) COMMIT
+I, [2018-02-27T20:48:17.425403 #25236]  INFO -- : (0.000182s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-27T20:48:17.426030 #25236]  INFO -- : (0.000167s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 6)
+I, [2018-02-28T07:49:46.285028 #30782]  INFO -- : (0.003760s) PRAGMA foreign_keys = 1
+I, [2018-02-28T07:49:46.285633 #30782]  INFO -- : (0.000038s) PRAGMA case_sensitive_like = 1
+I, [2018-02-28T07:49:46.285958 #30782]  INFO -- : (0.000161s) SELECT sqlite_version()
+I, [2018-02-28T07:49:46.286389 #30782]  INFO -- : (0.000184s) PRAGMA table_info('collections')
+I, [2018-02-28T07:49:46.288419 #30782]  INFO -- : (0.000168s) PRAGMA table_info('gifs')
+I, [2018-02-28T07:49:46.291769 #30782]  INFO -- : (0.000147s) PRAGMA table_info('users')
+I, [2018-02-28T07:50:09.502574 #30782]  INFO -- : (0.000169s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-28T07:50:09.504174 #30782]  INFO -- : (0.000189s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-28T07:50:09.525667 #30782]  INFO -- : (0.000184s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T07:50:14.654483 #30782]  INFO -- : (0.000182s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T07:50:14.655930 #30782]  INFO -- : (0.000205s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T07:50:18.487979 #30782]  INFO -- : (0.000204s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T07:50:19.233740 #30782]  INFO -- : (0.000093s) BEGIN
+I, [2018-02-28T07:50:19.234777 #30782]  INFO -- : (0.000417s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/b180bca9ce44dc5aa7d3584812bea7c6/tenor.gif', 9)
+I, [2018-02-28T07:50:19.235296 #30782]  INFO -- : (0.000185s) SELECT * FROM `gifs` WHERE `id` = 19
+I, [2018-02-28T07:50:19.249427 #30782]  INFO -- : (0.013998s) COMMIT
+I, [2018-02-28T07:50:19.285917 #30782]  INFO -- : (0.000288s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T07:50:19.286974 #30782]  INFO -- : (0.000309s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T07:50:25.354578 #30782]  INFO -- : (0.000160s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T07:50:26.352358 #30782]  INFO -- : (0.000047s) BEGIN
+I, [2018-02-28T07:50:26.352728 #30782]  INFO -- : (0.000153s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/3ov9jIKhQmjDbB9jjO/200_d.gif', 9)
+I, [2018-02-28T07:50:26.352990 #30782]  INFO -- : (0.000143s) SELECT * FROM `gifs` WHERE `id` = 20
+I, [2018-02-28T07:50:26.366788 #30782]  INFO -- : (0.013704s) COMMIT
+I, [2018-02-28T07:50:26.402675 #30782]  INFO -- : (0.000243s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T07:50:26.403432 #30782]  INFO -- : (0.000213s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T07:52:52.028433 #30782]  INFO -- : (0.000284s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-28T07:52:52.029620 #30782]  INFO -- : (0.000279s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-28T07:52:52.051290 #30782]  INFO -- : (0.000186s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T07:52:56.126337 #30782]  INFO -- : (0.000160s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T07:52:56.127147 #30782]  INFO -- : (0.000185s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T07:53:22.299213 #30782]  INFO -- : (0.000209s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T07:53:25.079595 #30782]  INFO -- : (0.000342s) SELECT * FROM `collections` WHERE `id` = '2'
+I, [2018-02-28T07:53:25.080116 #30782]  INFO -- : (0.000113s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 2)
+I, [2018-02-28T07:53:27.422290 #30782]  INFO -- : (0.000205s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T07:53:29.493363 #30782]  INFO -- : (0.000168s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T07:53:29.493967 #30782]  INFO -- : (0.000196s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T07:53:43.300070 #30782]  INFO -- : (0.000337s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T07:53:45.167167 #30782]  INFO -- : (0.000193s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T07:53:45.167743 #30782]  INFO -- : (0.000141s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T07:53:50.791276 #30782]  INFO -- : (0.000170s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T07:53:51.243793 #30782]  INFO -- : (0.000165s) BEGIN
+I, [2018-02-28T07:53:51.245201 #30782]  INFO -- : (0.000695s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('http://24.media.tumblr.com/tumblr_m306ourqW91r73wdao1_250.jpg', 9)
+I, [2018-02-28T07:53:51.246208 #30782]  INFO -- : (0.000495s) SELECT * FROM `gifs` WHERE `id` = 21
+I, [2018-02-28T07:53:51.260194 #30782]  INFO -- : (0.013713s) COMMIT
+I, [2018-02-28T07:53:51.305208 #30782]  INFO -- : (0.000199s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T07:53:51.305897 #30782]  INFO -- : (0.000206s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T07:54:12.180485 #30782]  INFO -- : (0.000191s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T07:59:23.462613 #30782]  INFO -- : (0.000167s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T07:59:23.463315 #30782]  INFO -- : (0.000198s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T07:59:46.482797 #30782]  INFO -- : (0.000259s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:08:41.464998 #30782]  INFO -- : (0.000164s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:08:41.465495 #30782]  INFO -- : (0.000124s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:09:03.036947 #30782]  INFO -- : (0.000178s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:09:05.055635 #30782]  INFO -- : (0.000187s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T08:09:05.056150 #30782]  INFO -- : (0.000104s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T08:09:20.036314 #30782]  INFO -- : (0.000158s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T08:09:20.989725 #30782]  INFO -- : (0.000187s) BEGIN
+I, [2018-02-28T08:09:20.991453 #30782]  INFO -- : (0.000793s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media0.giphy.com/media/aRFTcbyeLeXXa/200_d.gif', 3)
+I, [2018-02-28T08:09:20.992705 #30782]  INFO -- : (0.000566s) SELECT * FROM `gifs` WHERE `id` = 22
+I, [2018-02-28T08:09:21.007300 #30782]  INFO -- : (0.014236s) COMMIT
+I, [2018-02-28T08:09:21.045539 #30782]  INFO -- : (0.000343s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T08:09:21.046564 #30782]  INFO -- : (0.000255s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T08:09:42.455035 #30782]  INFO -- : (0.000172s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T08:09:43.240982 #30782]  INFO -- : (0.000261s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T08:09:43.241925 #30782]  INFO -- : (0.000248s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T08:10:18.456682 #30782]  INFO -- : (0.000184s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:18:59.332020 #30782]  INFO -- : (0.000175s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:19:03.916493 #30782]  INFO -- : (0.000233s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:19:03.917052 #30782]  INFO -- : (0.000141s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:27:57.193561 #30782]  INFO -- : (0.000154s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-28T08:27:57.194276 #30782]  INFO -- : (0.000202s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-28T08:27:57.215519 #30782]  INFO -- : (0.000189s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:28:01.979767 #30782]  INFO -- : (0.000256s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:28:01.984298 #30782]  INFO -- : (0.000725s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:28:03.769869 #30782]  INFO -- : (0.000186s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:28:04.989761 #30782]  INFO -- : (0.000155s) BEGIN
+I, [2018-02-28T08:28:04.993752 #30782]  INFO -- : (0.003293s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('http://24.media.tumblr.com/tumblr_l7nk14m2Ib1qc5lrwo1_250.gif', 9)
+I, [2018-02-28T08:28:04.994724 #30782]  INFO -- : (0.000426s) SELECT * FROM `gifs` WHERE `id` = 23
+I, [2018-02-28T08:28:05.008101 #30782]  INFO -- : (0.013054s) COMMIT
+I, [2018-02-28T08:28:05.053256 #30782]  INFO -- : (0.000218s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:28:05.053989 #30782]  INFO -- : (0.000215s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:28:33.202962 #30782]  INFO -- : (0.000187s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:29:56.187655 #30782]  INFO -- : (0.000187s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:30:02.433961 #30782]  INFO -- : (0.000265s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:30:02.434755 #30782]  INFO -- : (0.000202s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:30:05.006894 #30782]  INFO -- : (0.000231s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:30:06.107331 #30782]  INFO -- : (0.000151s) BEGIN
+I, [2018-02-28T08:30:06.111294 #30782]  INFO -- : (0.003275s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/3o6Zt79Pw8b52nVVF6/200_d.gif', 9)
+I, [2018-02-28T08:30:06.112461 #30782]  INFO -- : (0.000581s) SELECT * FROM `gifs` WHERE `id` = 24
+I, [2018-02-28T08:30:06.125923 #30782]  INFO -- : (0.013169s) COMMIT
+I, [2018-02-28T08:30:06.162816 #30782]  INFO -- : (0.000221s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:30:06.163425 #30782]  INFO -- : (0.000164s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:31:01.562188 #30782]  INFO -- : (0.000274s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:31:04.664488 #30782]  INFO -- : (0.000229s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:31:04.665177 #30782]  INFO -- : (0.000184s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:31:08.025383 #30782]  INFO -- : (0.000200s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:31:08.777363 #30782]  INFO -- : (0.000049s) BEGIN
+I, [2018-02-28T08:31:08.779393 #30782]  INFO -- : (0.001805s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/35cb624adf81d37ccddb197d7ad4ab7b/tenor.gif', 9)
+I, [2018-02-28T08:31:08.779692 #30782]  INFO -- : (0.000133s) SELECT * FROM `gifs` WHERE `id` = 25
+I, [2018-02-28T08:31:08.791615 #30782]  INFO -- : (0.011839s) COMMIT
+I, [2018-02-28T08:31:08.820042 #30782]  INFO -- : (0.000199s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:31:08.820640 #30782]  INFO -- : (0.000164s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:32:05.768774 #30782]  INFO -- : (0.000199s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:32:08.097231 #30782]  INFO -- : (0.000211s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:32:08.098067 #30782]  INFO -- : (0.000249s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:37:28.317583 #30782]  INFO -- : (0.000185s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:37:29.968109 #30782]  INFO -- : (0.000304s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:37:29.969120 #30782]  INFO -- : (0.000318s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:38:58.936371 #30782]  INFO -- : (0.000194s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:39:00.548202 #30782]  INFO -- : (0.000228s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:39:00.549004 #30782]  INFO -- : (0.000243s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:39:02.739286 #30782]  INFO -- : (0.000323s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:39:02.983355 #30782]  INFO -- : (0.000150s) BEGIN
+I, [2018-02-28T08:39:02.984549 #30782]  INFO -- : (0.000550s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media2.giphy.com/media/iuXnKvwKtuqNq/200_d.gif', 9)
+I, [2018-02-28T08:39:02.985364 #30782]  INFO -- : (0.000384s) SELECT * FROM `gifs` WHERE `id` = 26
+I, [2018-02-28T08:39:03.001289 #30782]  INFO -- : (0.015547s) COMMIT
+I, [2018-02-28T08:39:03.042001 #30782]  INFO -- : (0.000237s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:39:03.043054 #30782]  INFO -- : (0.000383s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:39:09.576007 #30782]  INFO -- : (0.000220s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:39:09.576813 #30782]  INFO -- : (0.000266s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:39:14.094278 #30782]  INFO -- : (0.000210s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:39:15.051522 #30782]  INFO -- : (0.000094s) BEGIN
+I, [2018-02-28T08:39:15.052212 #30782]  INFO -- : (0.000304s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/b180bca9ce44dc5aa7d3584812bea7c6/tenor.gif', 9)
+I, [2018-02-28T08:39:15.052683 #30782]  INFO -- : (0.000221s) SELECT * FROM `gifs` WHERE `id` = 27
+I, [2018-02-28T08:39:15.066906 #30782]  INFO -- : (0.014066s) COMMIT
+I, [2018-02-28T08:39:15.099663 #30782]  INFO -- : (0.000236s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:39:15.100543 #30782]  INFO -- : (0.000256s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:39:24.414680 #30782]  INFO -- : (0.000191s) SELECT * FROM `gifs` WHERE `id` = '19'
+I, [2018-02-28T08:39:24.427722 #30782]  INFO -- : (0.012854s) DELETE FROM `gifs` WHERE `id` = 19
+I, [2018-02-28T08:39:24.455978 #30782]  INFO -- : (0.000285s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:39:24.456624 #30782]  INFO -- : (0.000185s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:39:26.701461 #30782]  INFO -- : (0.000183s) SELECT * FROM `gifs` WHERE `id` = '20'
+I, [2018-02-28T08:39:26.714264 #30782]  INFO -- : (0.012614s) DELETE FROM `gifs` WHERE `id` = 20
+I, [2018-02-28T08:39:26.742944 #30782]  INFO -- : (0.000219s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T08:39:26.743726 #30782]  INFO -- : (0.000225s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T08:39:32.492514 #30782]  INFO -- : (0.000275s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:39:59.990155 #30782]  INFO -- : (0.000215s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T08:40:01.849129 #30782]  INFO -- : (0.000175s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-28T08:40:01.849684 #30782]  INFO -- : (0.000124s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 6)
+I, [2018-02-28T08:40:04.242849 #30782]  INFO -- : (0.000193s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-28T08:40:05.780949 #30782]  INFO -- : (0.000180s) BEGIN
+I, [2018-02-28T08:40:05.782543 #30782]  INFO -- : (0.000704s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/15bf5ca6b4aa9865d9599bdb7947a625/tenor.gif', 6)
+I, [2018-02-28T08:40:05.783752 #30782]  INFO -- : (0.000500s) SELECT * FROM `gifs` WHERE `id` = 28
+I, [2018-02-28T08:40:05.798966 #30782]  INFO -- : (0.014868s) COMMIT
+I, [2018-02-28T08:40:05.841148 #30782]  INFO -- : (0.000235s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-02-28T08:40:05.841975 #30782]  INFO -- : (0.000267s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 6)
+I, [2018-02-28T08:40:21.127139 #30782]  INFO -- : (0.000189s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T10:27:34.775070 #8437]  INFO -- : (0.002023s) PRAGMA foreign_keys = 1
+I, [2018-02-28T10:27:34.775187 #8437]  INFO -- : (0.000022s) PRAGMA case_sensitive_like = 1
+I, [2018-02-28T10:27:34.775397 #8437]  INFO -- : (0.000106s) SELECT sqlite_version()
+I, [2018-02-28T10:27:34.775704 #8437]  INFO -- : (0.000109s) PRAGMA table_info('collections')
+I, [2018-02-28T10:27:34.777101 #8437]  INFO -- : (0.000106s) PRAGMA table_info('gifs')
+I, [2018-02-28T10:27:34.779654 #8437]  INFO -- : (0.000105s) PRAGMA table_info('users')
+I, [2018-02-28T10:27:56.631610 #8437]  INFO -- : (0.000174s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-28T10:27:56.632672 #8437]  INFO -- : (0.000170s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-28T10:27:56.651459 #8437]  INFO -- : (0.000183s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T10:28:05.064105 #8437]  INFO -- : (0.000179s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:28:05.068111 #8437]  INFO -- : (0.000466s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:28:18.276232 #8437]  INFO -- : (0.000156s) SELECT * FROM `gifs` WHERE `id` = '26'
+I, [2018-02-28T10:28:18.288678 #8437]  INFO -- : (0.012303s) DELETE FROM `gifs` WHERE `id` = 26
+I, [2018-02-28T10:28:18.355297 #8437]  INFO -- : (0.000247s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:28:18.355884 #8437]  INFO -- : (0.000157s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:29:19.250306 #8437]  INFO -- : (0.000176s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:29:19.250877 #8437]  INFO -- : (0.000160s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:29:28.696015 #8437]  INFO -- : (0.000265s) SELECT * FROM `gifs` WHERE `id` = '25'
+I, [2018-02-28T10:29:28.709683 #8437]  INFO -- : (0.013469s) DELETE FROM `gifs` WHERE `id` = 25
+I, [2018-02-28T10:29:42.402362 #8437]  INFO -- : (0.000222s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T10:29:44.422416 #8437]  INFO -- : (0.000229s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:29:44.423287 #8437]  INFO -- : (0.000247s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:30:11.401127 #8437]  INFO -- : (0.000211s) SELECT * FROM `gifs` WHERE `id` = '27'
+I, [2018-02-28T10:30:11.431927 #8437]  INFO -- : (0.030639s) DELETE FROM `gifs` WHERE `id` = 27
+I, [2018-02-28T10:31:12.769438 #8437]  INFO -- : (0.000175s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:31:13.798586 #8437]  INFO -- : (0.000157s) BEGIN
+I, [2018-02-28T10:31:13.800010 #8437]  INFO -- : (0.000532s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/4390aeefbf26f1f572ac1ed3f7acaafa/tenor.gif', 9)
+I, [2018-02-28T10:31:13.800957 #8437]  INFO -- : (0.000386s) SELECT * FROM `gifs` WHERE `id` = 29
+I, [2018-02-28T10:31:13.819182 #8437]  INFO -- : (0.017952s) COMMIT
+I, [2018-02-28T10:31:13.888546 #8437]  INFO -- : (0.000226s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:31:13.889172 #8437]  INFO -- : (0.000155s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:32:19.214138 #8437]  INFO -- : (0.000174s) SELECT * FROM `gifs` WHERE `id` = '29'
+I, [2018-02-28T10:32:19.231382 #8437]  INFO -- : (0.016893s) DELETE FROM `gifs` WHERE `id` = 29
+I, [2018-02-28T10:32:19.315950 #8437]  INFO -- : (0.000194s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:32:19.316547 #8437]  INFO -- : (0.000159s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:33:24.883714 #8437]  INFO -- : (0.000181s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T10:33:27.551651 #8437]  INFO -- : (0.000192s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:33:27.552260 #8437]  INFO -- : (0.000205s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:33:30.913341 #8437]  INFO -- : (0.000211s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:33:31.949066 #8437]  INFO -- : (0.000179s) BEGIN
+I, [2018-02-28T10:33:31.950589 #8437]  INFO -- : (0.000693s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/ae1997574d940026c969e93a5030d853/tenor.gif', 9)
+I, [2018-02-28T10:33:31.951734 #8437]  INFO -- : (0.000516s) SELECT * FROM `gifs` WHERE `id` = 30
+I, [2018-02-28T10:33:31.966517 #8437]  INFO -- : (0.014486s) COMMIT
+I, [2018-02-28T10:33:32.017290 #8437]  INFO -- : (0.000197s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:33:32.017865 #8437]  INFO -- : (0.000154s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:33:37.479577 #8437]  INFO -- : (0.000190s) SELECT * FROM `gifs` WHERE `id` = '30'
+I, [2018-02-28T10:33:37.492225 #8437]  INFO -- : (0.012514s) DELETE FROM `gifs` WHERE `id` = 30
+I, [2018-02-28T10:33:55.983111 #8437]  INFO -- : (0.000198s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T10:33:59.315015 #8437]  INFO -- : (0.000217s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T10:33:59.315607 #8437]  INFO -- : (0.000181s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T10:34:08.784513 #8437]  INFO -- : (0.000235s) SELECT * FROM `gifs` WHERE `id` = '1'
+I, [2018-02-28T10:34:08.798038 #8437]  INFO -- : (0.013350s) DELETE FROM `gifs` WHERE `id` = 1
+I, [2018-02-28T10:34:19.023167 #8437]  INFO -- : (0.000221s) SELECT * FROM `gifs` WHERE `id` = '3'
+I, [2018-02-28T10:34:19.039314 #8437]  INFO -- : (0.015974s) DELETE FROM `gifs` WHERE `id` = 3
+I, [2018-02-28T10:34:27.610225 #8437]  INFO -- : (0.000326s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T10:37:20.222019 #8437]  INFO -- : (0.000214s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T10:37:26.190700 #8437]  INFO -- : (0.000194s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T10:37:26.191441 #8437]  INFO -- : (0.000219s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T10:37:33.267121 #8437]  INFO -- : (0.000233s) SELECT * FROM `gifs` WHERE `id` = '12'
+I, [2018-02-28T10:37:33.280110 #8437]  INFO -- : (0.012837s) DELETE FROM `gifs` WHERE `id` = 12
+I, [2018-02-28T10:37:39.354476 #8437]  INFO -- : (0.000221s) SELECT * FROM `gifs` WHERE `id` = '15'
+I, [2018-02-28T10:37:39.370687 #8437]  INFO -- : (0.016021s) DELETE FROM `gifs` WHERE `id` = 15
+I, [2018-02-28T10:37:41.836396 #8437]  INFO -- : (0.000440s) SELECT * FROM `gifs` WHERE `id` = '16'
+I, [2018-02-28T10:37:41.850675 #8437]  INFO -- : (0.013990s) DELETE FROM `gifs` WHERE `id` = 16
+I, [2018-02-28T10:38:03.514517 #8437]  INFO -- : (0.000233s) SELECT * FROM `gifs` WHERE `id` = '5'
+I, [2018-02-28T10:38:03.528167 #8437]  INFO -- : (0.013489s) DELETE FROM `gifs` WHERE `id` = 5
+I, [2018-02-28T10:38:05.937583 #8437]  INFO -- : (0.000230s) SELECT * FROM `gifs` WHERE `id` = '6'
+I, [2018-02-28T10:38:05.951644 #8437]  INFO -- : (0.013917s) DELETE FROM `gifs` WHERE `id` = 6
+I, [2018-02-28T10:38:10.479949 #8437]  INFO -- : (0.000232s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T10:40:06.086407 #8437]  INFO -- : (0.000201s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T10:40:07.964127 #8437]  INFO -- : (0.000191s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:40:07.964700 #8437]  INFO -- : (0.000140s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:40:10.098002 #8437]  INFO -- : (0.000208s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:40:11.126073 #8437]  INFO -- : (0.000087s) BEGIN
+I, [2018-02-28T10:40:11.126609 #8437]  INFO -- : (0.000232s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/b92f54b456feb1093551277bad4b0f86/tenor.gif', 9)
+I, [2018-02-28T10:40:11.127021 #8437]  INFO -- : (0.000216s) SELECT * FROM `gifs` WHERE `id` = 31
+I, [2018-02-28T10:40:11.142202 #8437]  INFO -- : (0.014992s) COMMIT
+I, [2018-02-28T10:40:11.194427 #8437]  INFO -- : (0.000196s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:40:11.195068 #8437]  INFO -- : (0.000156s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:40:16.423777 #8437]  INFO -- : (0.000165s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:40:16.828039 #8437]  INFO -- : (0.000163s) BEGIN
+I, [2018-02-28T10:40:16.829352 #8437]  INFO -- : (0.000578s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('http://25.media.tumblr.com/tumblr_m3drs81kUK1r73wdao1_250.gif', 9)
+I, [2018-02-28T10:40:16.830249 #8437]  INFO -- : (0.000416s) SELECT * FROM `gifs` WHERE `id` = 32
+I, [2018-02-28T10:40:16.844014 #8437]  INFO -- : (0.013533s) COMMIT
+I, [2018-02-28T10:40:16.876913 #8437]  INFO -- : (0.000267s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T10:40:16.877747 #8437]  INFO -- : (0.000236s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T10:40:22.335546 #8437]  INFO -- : (0.000229s) SELECT * FROM `gifs` WHERE `id` = '31'
+I, [2018-02-28T10:40:22.349867 #8437]  INFO -- : (0.014155s) DELETE FROM `gifs` WHERE `id` = 31
+I, [2018-02-28T11:22:01.718800 #8437]  INFO -- : (0.009973s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T11:22:01.720957 #8437]  INFO -- : (0.000336s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T11:22:04.746738 #8437]  INFO -- : (0.000227s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T11:22:05.185146 #8437]  INFO -- : (0.000076s) BEGIN
+I, [2018-02-28T11:22:05.185632 #8437]  INFO -- : (0.000200s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media2.giphy.com/media/l1J9NBa8GXWXFMGzK/200_d.gif', 9)
+I, [2018-02-28T11:22:05.186006 #8437]  INFO -- : (0.000189s) SELECT * FROM `gifs` WHERE `id` = 33
+I, [2018-02-28T11:22:05.205387 #8437]  INFO -- : (0.019236s) COMMIT
+I, [2018-02-28T11:22:05.256041 #8437]  INFO -- : (0.000270s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T11:22:05.257561 #8437]  INFO -- : (0.000328s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T11:22:08.749943 #8437]  INFO -- : (0.000458s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T11:22:08.992912 #8437]  INFO -- : (0.000042s) BEGIN
+I, [2018-02-28T11:22:08.993415 #8437]  INFO -- : (0.000139s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media2.giphy.com/media/l1J9FtuL6TUEv78f6/200_d.gif', 9)
+I, [2018-02-28T11:22:08.993610 #8437]  INFO -- : (0.000091s) SELECT * FROM `gifs` WHERE `id` = 34
+I, [2018-02-28T11:22:09.008387 #8437]  INFO -- : (0.014637s) COMMIT
+I, [2018-02-28T11:22:09.057305 #8437]  INFO -- : (0.000196s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T11:22:09.058558 #8437]  INFO -- : (0.000470s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T11:22:14.140854 #8437]  INFO -- : (0.000223s) SELECT * FROM `gifs` WHERE `id` = '33'
+I, [2018-02-28T11:22:14.161758 #8437]  INFO -- : (0.020679s) DELETE FROM `gifs` WHERE `id` = 33
+I, [2018-02-28T11:23:01.171481 #8437]  INFO -- : (0.000228s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T13:43:35.928608 #17979]  INFO -- : (0.003363s) PRAGMA foreign_keys = 1
+I, [2018-02-28T13:43:35.929000 #17979]  INFO -- : (0.000031s) PRAGMA case_sensitive_like = 1
+I, [2018-02-28T13:43:35.929222 #17979]  INFO -- : (0.000103s) SELECT sqlite_version()
+I, [2018-02-28T13:43:35.929567 #17979]  INFO -- : (0.000122s) PRAGMA table_info('collections')
+I, [2018-02-28T13:43:35.931390 #17979]  INFO -- : (0.000143s) PRAGMA table_info('gifs')
+I, [2018-02-28T13:43:35.934189 #17979]  INFO -- : (0.000143s) PRAGMA table_info('users')
+I, [2018-02-28T13:43:50.808751 #17979]  INFO -- : (0.000232s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T13:43:53.189160 #17979]  INFO -- : (0.000260s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T13:43:55.117747 #17979]  INFO -- : (0.000171s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T13:43:55.119407 #17979]  INFO -- : (0.000173s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T13:45:30.670905 #17979]  INFO -- : (0.000204s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T13:45:30.671574 #17979]  INFO -- : (0.000177s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T13:51:23.235243 #17979]  INFO -- : (0.000179s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T13:51:23.236172 #17979]  INFO -- : (0.000288s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T13:51:50.393656 #17979]  INFO -- : (0.000201s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T13:51:50.394352 #17979]  INFO -- : (0.000214s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T13:58:22.108517 #17979]  INFO -- : (0.000217s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T13:58:22.111707 #17979]  INFO -- : (0.000212s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T13:58:24.486660 #17979]  INFO -- : (0.000200s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T13:58:24.487806 #17979]  INFO -- : (0.000351s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T13:59:28.809288 #17979]  INFO -- : (0.000278s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T13:59:28.810759 #17979]  INFO -- : (0.000670s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:00:09.065264 #17979]  INFO -- : (0.000230s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:00:09.066131 #17979]  INFO -- : (0.000206s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:00:24.075957 #17979]  INFO -- : (0.000239s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:00:24.077087 #17979]  INFO -- : (0.000226s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:01:02.286385 #17979]  INFO -- : (0.000184s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:01:02.287431 #17979]  INFO -- : (0.000270s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:01:27.754008 #17979]  INFO -- : (0.000228s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:01:27.754818 #17979]  INFO -- : (0.000241s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:01:41.891426 #17979]  INFO -- : (0.000182s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:01:41.892131 #17979]  INFO -- : (0.000257s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:01:50.508415 #17979]  INFO -- : (0.000294s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:01:50.511227 #17979]  INFO -- : (0.000476s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:02:56.636836 #17979]  INFO -- : (0.000165s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:02:56.637382 #17979]  INFO -- : (0.000139s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:03:37.959066 #17979]  INFO -- : (0.000204s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:03:37.959786 #17979]  INFO -- : (0.000185s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:04:14.016315 #17979]  INFO -- : (0.000260s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:04:14.017187 #17979]  INFO -- : (0.000246s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:04:42.038058 #17979]  INFO -- : (0.000250s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:04:42.038823 #17979]  INFO -- : (0.000192s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:04:52.753059 #17979]  INFO -- : (0.000157s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:04:52.753660 #17979]  INFO -- : (0.000191s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:05:03.510283 #17979]  INFO -- : (0.000225s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:05:03.511171 #17979]  INFO -- : (0.000263s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:06:58.813453 #17979]  INFO -- : (0.000302s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:06:58.814393 #17979]  INFO -- : (0.000279s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:10:40.286498 #17979]  INFO -- : (0.000196s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:10:40.287194 #17979]  INFO -- : (0.000170s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:11:51.589877 #17979]  INFO -- : (0.000233s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:11:51.590819 #17979]  INFO -- : (0.000275s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:13:06.684878 #17979]  INFO -- : (0.000682s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:13:06.686279 #17979]  INFO -- : (0.000429s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:13:18.943720 #17979]  INFO -- : (0.000211s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:13:18.944433 #17979]  INFO -- : (0.000190s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:15:04.160485 #17979]  INFO -- : (0.000268s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:15:04.161344 #17979]  INFO -- : (0.000199s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:15:34.303646 #17979]  INFO -- : (0.000192s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:15:34.304420 #17979]  INFO -- : (0.000207s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:15:39.486651 #17979]  INFO -- : (0.000605s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:15:39.489331 #17979]  INFO -- : (0.000890s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:16:39.026723 #17979]  INFO -- : (0.000188s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:16:39.027341 #17979]  INFO -- : (0.000166s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:18:47.475623 #17979]  INFO -- : (0.000192s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:18:47.476257 #17979]  INFO -- : (0.000186s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:19:40.854859 #17979]  INFO -- : (0.000181s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:19:40.855421 #17979]  INFO -- : (0.000132s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T14:20:17.759829 #17979]  INFO -- : (0.000179s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T14:20:17.760667 #17979]  INFO -- : (0.000162s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T15:28:37.326717 #17979]  INFO -- : (0.000500s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T15:28:38.960735 #17979]  INFO -- : (0.000224s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T15:28:41.501089 #17979]  INFO -- : (0.000180s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T15:28:41.501762 #17979]  INFO -- : (0.000146s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T15:28:45.236820 #17979]  INFO -- : (0.000293s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T15:28:46.292058 #17979]  INFO -- : (0.000075s) BEGIN
+I, [2018-02-28T15:28:46.294780 #17979]  INFO -- : (0.002016s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/58c565c78a664b21ea983e39a2106f86/tenor.gif', 9)
+I, [2018-02-28T15:28:46.295302 #17979]  INFO -- : (0.000187s) SELECT * FROM `gifs` WHERE `id` = 35
+I, [2018-02-28T15:28:46.308245 #17979]  INFO -- : (0.012787s) COMMIT
+I, [2018-02-28T15:28:56.535370 #17979]  INFO -- : (0.000193s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T15:28:58.055868 #17979]  INFO -- : (0.000171s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T15:28:58.056607 #17979]  INFO -- : (0.000136s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T15:32:23.458596 #17979]  INFO -- : (0.000490s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T15:32:25.133387 #17979]  INFO -- : (0.000178s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:32:25.134129 #17979]  INFO -- : (0.000126s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:32:28.978550 #17979]  INFO -- : (0.000173s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:32:29.857909 #17979]  INFO -- : (0.000157s) BEGIN
+I, [2018-02-28T15:32:29.859142 #17979]  INFO -- : (0.000589s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/kFENDMxZaU91u/200_d.gif', 3)
+I, [2018-02-28T15:32:29.859998 #17979]  INFO -- : (0.000416s) SELECT * FROM `gifs` WHERE `id` = 36
+I, [2018-02-28T15:32:29.875022 #17979]  INFO -- : (0.014772s) COMMIT
+I, [2018-02-28T15:32:36.679919 #17979]  INFO -- : (0.000172s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:32:36.680521 #17979]  INFO -- : (0.000153s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:32:38.862743 #17979]  INFO -- : (0.000253s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:32:39.292093 #17979]  INFO -- : (0.000137s) BEGIN
+I, [2018-02-28T15:32:39.293347 #17979]  INFO -- : (0.000530s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/XXTIjWUl7a55S/200_d.gif', 3)
+I, [2018-02-28T15:32:39.294147 #17979]  INFO -- : (0.000372s) SELECT * FROM `gifs` WHERE `id` = 37
+I, [2018-02-28T15:32:39.309411 #17979]  INFO -- : (0.015009s) COMMIT
+I, [2018-02-28T15:32:43.251376 #17979]  INFO -- : (0.000207s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:32:43.251914 #17979]  INFO -- : (0.000132s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:32:50.179460 #17979]  INFO -- : (0.000167s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:35:36.906602 #17979]  INFO -- : (0.000169s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:35:36.907186 #17979]  INFO -- : (0.000150s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:35:40.540592 #17979]  INFO -- : (0.000229s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:37:04.405500 #17979]  INFO -- : (0.000167s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:37:04.406095 #17979]  INFO -- : (0.000186s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:37:06.842522 #17979]  INFO -- : (0.000209s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:38:35.040646 #17979]  INFO -- : (0.000156s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:38:35.041150 #17979]  INFO -- : (0.000129s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:38:37.068708 #17979]  INFO -- : (0.000328s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:38:37.906705 #17979]  INFO -- : (0.000043s) BEGIN
+I, [2018-02-28T15:38:37.907111 #17979]  INFO -- : (0.000187s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media1.giphy.com/media/CgBzlYtAvraNy/200_d.gif', 3)
+I, [2018-02-28T15:38:37.907401 #17979]  INFO -- : (0.000134s) SELECT * FROM `gifs` WHERE `id` = 38
+I, [2018-02-28T15:38:37.925743 #17979]  INFO -- : (0.018159s) COMMIT
+I, [2018-02-28T15:38:49.372111 #17979]  INFO -- : (0.000287s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:38:49.615945 #17979]  INFO -- : (0.000142s) BEGIN
+I, [2018-02-28T15:38:49.617209 #17979]  INFO -- : (0.000515s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media0.giphy.com/media/11Mwsu0GYrXqw0/200_d.gif', 3)
+I, [2018-02-28T15:38:49.618035 #17979]  INFO -- : (0.000376s) SELECT * FROM `gifs` WHERE `id` = 39
+I, [2018-02-28T15:38:49.633063 #17979]  INFO -- : (0.014748s) COMMIT
+I, [2018-02-28T15:38:52.639046 #17979]  INFO -- : (0.000667s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:39:46.315410 #17979]  INFO -- : (0.000174s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:39:46.316066 #17979]  INFO -- : (0.000184s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:39:50.491988 #17979]  INFO -- : (0.000225s) SELECT * FROM `gifs` WHERE `id` = '22'
+I, [2018-02-28T15:39:50.510125 #17979]  INFO -- : (0.017320s) DELETE FROM `gifs` WHERE `id` = 22
+I, [2018-02-28T15:39:51.280501 #17979]  INFO -- : (0.000196s) SELECT * FROM `gifs` WHERE `id` = '36'
+I, [2018-02-28T15:39:51.293371 #17979]  INFO -- : (0.012718s) DELETE FROM `gifs` WHERE `id` = 36
+I, [2018-02-28T15:39:52.823087 #17979]  INFO -- : (0.000192s) SELECT * FROM `gifs` WHERE `id` = '38'
+I, [2018-02-28T15:39:52.838486 #17979]  INFO -- : (0.015216s) DELETE FROM `gifs` WHERE `id` = 38
+I, [2018-02-28T15:39:54.692489 #17979]  INFO -- : (0.000174s) SELECT * FROM `gifs` WHERE `id` = '39'
+I, [2018-02-28T15:39:54.706616 #17979]  INFO -- : (0.014007s) DELETE FROM `gifs` WHERE `id` = 39
+I, [2018-02-28T15:39:56.513484 #17979]  INFO -- : (0.000180s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:41:20.101194 #17979]  INFO -- : (0.000235s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:41:20.102015 #17979]  INFO -- : (0.000182s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:41:22.739313 #17979]  INFO -- : (0.000312s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:42:37.666074 #17979]  INFO -- : (0.000182s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:42:37.666979 #17979]  INFO -- : (0.000273s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:42:40.471110 #17979]  INFO -- : (0.000310s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:42:44.809976 #17979]  INFO -- : (0.000349s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:42:48.773770 #17979]  INFO -- : (0.000442s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:42:49.571169 #17979]  INFO -- : (0.000150s) BEGIN
+I, [2018-02-28T15:42:49.572431 #17979]  INFO -- : (0.000578s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media1.giphy.com/media/3o72F443ipH7lqT41G/200_d.gif', 3)
+I, [2018-02-28T15:42:49.573280 #17979]  INFO -- : (0.000394s) SELECT * FROM `gifs` WHERE `id` = 40
+I, [2018-02-28T15:42:49.588389 #17979]  INFO -- : (0.014835s) COMMIT
+I, [2018-02-28T15:42:55.783889 #17979]  INFO -- : (0.000657s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:43:00.207916 #17979]  INFO -- : (0.000066s) BEGIN
+I, [2018-02-28T15:43:00.208463 #17979]  INFO -- : (0.000255s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/t6KLuO1NBRlwA/200_d.gif', 3)
+I, [2018-02-28T15:43:00.208804 #17979]  INFO -- : (0.000158s) SELECT * FROM `gifs` WHERE `id` = 41
+I, [2018-02-28T15:43:00.230872 #17979]  INFO -- : (0.021891s) COMMIT
+I, [2018-02-28T15:43:04.374876 #17979]  INFO -- : (0.000955s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:43:47.302330 #17979]  INFO -- : (0.000180s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:43:47.303190 #17979]  INFO -- : (0.000246s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:47:17.150290 #17979]  INFO -- : (0.000173s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:48:15.958671 #17979]  INFO -- : (0.000233s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:48:16.250137 #17979]  INFO -- : (0.000142s) BEGIN
+I, [2018-02-28T15:48:16.251417 #17979]  INFO -- : (0.000634s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media1.giphy.com/media/AuGla3uWijGBq/200_d.gif', 3)
+I, [2018-02-28T15:48:16.252371 #17979]  INFO -- : (0.000469s) SELECT * FROM `gifs` WHERE `id` = 42
+I, [2018-02-28T15:48:16.266992 #17979]  INFO -- : (0.014362s) COMMIT
+I, [2018-02-28T15:48:31.304833 #17979]  INFO -- : (0.000192s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:48:31.305414 #17979]  INFO -- : (0.000154s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:49:25.421837 #17979]  INFO -- : (0.000201s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:49:25.422429 #17979]  INFO -- : (0.000132s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:49:28.024816 #17979]  INFO -- : (0.000323s) SELECT * FROM `gifs` WHERE `id` = '42'
+I, [2018-02-28T15:49:28.039452 #17979]  INFO -- : (0.014408s) DELETE FROM `gifs` WHERE `id` = 42
+I, [2018-02-28T15:49:30.505283 #17979]  INFO -- : (0.000220s) SELECT * FROM `gifs` WHERE `id` = '40'
+I, [2018-02-28T15:49:30.518667 #17979]  INFO -- : (0.013191s) DELETE FROM `gifs` WHERE `id` = 40
+I, [2018-02-28T15:49:32.465211 #17979]  INFO -- : (0.000766s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:49:33.012968 #17979]  INFO -- : (0.000157s) BEGIN
+I, [2018-02-28T15:49:33.014124 #17979]  INFO -- : (0.000504s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media0.giphy.com/media/TvUsl3EHPyGS4/200_d.gif', 3)
+I, [2018-02-28T15:49:33.015015 #17979]  INFO -- : (0.000436s) SELECT * FROM `gifs` WHERE `id` = 43
+I, [2018-02-28T15:49:33.030418 #17979]  INFO -- : (0.015137s) COMMIT
+I, [2018-02-28T15:49:39.370443 #17979]  INFO -- : (0.000257s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:49:47.894372 #17979]  INFO -- : (0.000160s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T15:49:47.894987 #17979]  INFO -- : (0.000192s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T15:56:12.380863 #17979]  INFO -- : (0.000208s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T15:56:14.361254 #17979]  INFO -- : (0.000274s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T15:56:19.879195 #17979]  INFO -- : (0.000204s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T15:56:19.879960 #17979]  INFO -- : (0.000241s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T15:56:24.620819 #17979]  INFO -- : (0.000233s) SELECT * FROM `gifs` WHERE `id` = '35'
+I, [2018-02-28T15:56:24.635333 #17979]  INFO -- : (0.014352s) DELETE FROM `gifs` WHERE `id` = 35
+I, [2018-02-28T15:56:26.802260 #17979]  INFO -- : (0.000194s) SELECT * FROM `gifs` WHERE `id` = '32'
+I, [2018-02-28T15:56:26.814126 #17979]  INFO -- : (0.011744s) DELETE FROM `gifs` WHERE `id` = 32
+I, [2018-02-28T15:56:31.106190 #17979]  INFO -- : (0.000255s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T15:56:31.793542 #17979]  INFO -- : (0.000150s) BEGIN
+I, [2018-02-28T15:56:31.795046 #17979]  INFO -- : (0.000719s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('http://28.media.tumblr.com/qgIb8tERiqn2ze7s4HMhPC3Io1_250.jpg', 9)
+I, [2018-02-28T15:56:31.796319 #17979]  INFO -- : (0.000582s) SELECT * FROM `gifs` WHERE `id` = 44
+I, [2018-02-28T15:56:31.810610 #17979]  INFO -- : (0.013862s) COMMIT
+I, [2018-02-28T15:58:53.645715 #17979]  INFO -- : (0.000206s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T15:58:53.646455 #17979]  INFO -- : (0.000208s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T15:58:56.765346 #17979]  INFO -- : (0.000169s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T15:59:04.571900 #17979]  INFO -- : (0.000147s) BEGIN
+I, [2018-02-28T15:59:04.573059 #17979]  INFO -- : (0.000517s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media0.giphy.com/media/8Rx1VaCae7OCs/200_d.gif', 9)
+I, [2018-02-28T15:59:04.573866 #17979]  INFO -- : (0.000388s) SELECT * FROM `gifs` WHERE `id` = 45
+I, [2018-02-28T15:59:04.593438 #17979]  INFO -- : (0.019333s) COMMIT
+I, [2018-02-28T15:59:36.300969 #17979]  INFO -- : (0.000191s) SELECT * FROM `gifs` WHERE `id` = '21'
+I, [2018-02-28T15:59:36.316042 #17979]  INFO -- : (0.014885s) DELETE FROM `gifs` WHERE `id` = 21
+I, [2018-02-28T15:59:39.936204 #17979]  INFO -- : (0.000256s) SELECT * FROM `gifs` WHERE `id` = '44'
+I, [2018-02-28T15:59:39.949982 #17979]  INFO -- : (0.013611s) DELETE FROM `gifs` WHERE `id` = 44
+I, [2018-02-28T15:59:50.669980 #17979]  INFO -- : (0.000203s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T19:40:36.115059 #28163]  INFO -- : (0.000428s) PRAGMA foreign_keys = 1
+I, [2018-02-28T19:40:36.116706 #28163]  INFO -- : (0.000036s) PRAGMA case_sensitive_like = 1
+I, [2018-02-28T19:40:36.117313 #28163]  INFO -- : (0.000453s) SELECT sqlite_version()
+I, [2018-02-28T19:40:36.117765 #28163]  INFO -- : (0.000214s) PRAGMA table_info('collections')
+I, [2018-02-28T19:40:36.119850 #28163]  INFO -- : (0.000171s) PRAGMA table_info('gifs')
+I, [2018-02-28T19:40:36.123225 #28163]  INFO -- : (0.000201s) PRAGMA table_info('users')
+I, [2018-02-28T19:41:23.931645 #28163]  INFO -- : (0.000202s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T19:41:33.456919 #28163]  INFO -- : (0.000164s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T19:41:33.459914 #28163]  INFO -- : (0.000189s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T19:42:07.355070 #28163]  INFO -- : (0.000217s) SELECT * FROM `gifs` WHERE `id` = '9'
+I, [2018-02-28T19:42:07.552515 #28163]  INFO -- : (0.197192s) DELETE FROM `gifs` WHERE `id` = 9
+I, [2018-02-28T19:42:12.215028 #28163]  INFO -- : (0.000198s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T19:42:12.976267 #28163]  INFO -- : (0.000103s) BEGIN
+I, [2018-02-28T19:42:12.978363 #28163]  INFO -- : (0.001456s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/1274e29dde3c47ab7155d46a88ac228c/tenor.gif', 1)
+I, [2018-02-28T19:42:12.979389 #28163]  INFO -- : (0.000375s) SELECT * FROM `gifs` WHERE `id` = 46
+I, [2018-02-28T19:42:13.005150 #28163]  INFO -- : (0.025493s) COMMIT
+I, [2018-02-28T19:42:25.717597 #28163]  INFO -- : (0.000226s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T19:42:34.686637 #28163]  INFO -- : (0.000168s) BEGIN
+I, [2018-02-28T19:42:34.687876 #28163]  INFO -- : (0.000529s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media2.giphy.com/media/hoez5ZBphbt0Q/200_d.gif', 1)
+I, [2018-02-28T19:42:34.689044 #28163]  INFO -- : (0.000568s) SELECT * FROM `gifs` WHERE `id` = 47
+I, [2018-02-28T19:42:34.708137 #28163]  INFO -- : (0.018720s) COMMIT
+I, [2018-02-28T19:43:38.288167 #28163]  INFO -- : (0.000166s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T19:43:38.288715 #28163]  INFO -- : (0.000163s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T19:43:45.192810 #28163]  INFO -- : (0.000166s) SELECT * FROM `gifs` WHERE `id` = '46'
+I, [2018-02-28T19:43:45.206954 #28163]  INFO -- : (0.013951s) DELETE FROM `gifs` WHERE `id` = 46
+I, [2018-02-28T19:43:47.826418 #28163]  INFO -- : (0.000400s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T19:43:48.576027 #28163]  INFO -- : (0.000188s) BEGIN
+I, [2018-02-28T19:43:48.577673 #28163]  INFO -- : (0.000710s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media0.giphy.com/media/lpPXSE3IslgyI/200_d.gif', 1)
+I, [2018-02-28T19:43:48.578978 #28163]  INFO -- : (0.000567s) SELECT * FROM `gifs` WHERE `id` = 48
+I, [2018-02-28T19:43:48.594397 #28163]  INFO -- : (0.014995s) COMMIT
+I, [2018-02-28T19:44:31.870713 #28163]  INFO -- : (0.000208s) SELECT * FROM `gifs` WHERE `id` = '47'
+I, [2018-02-28T19:44:31.884940 #28163]  INFO -- : (0.014061s) DELETE FROM `gifs` WHERE `id` = 47
+I, [2018-02-28T19:44:40.063196 #28163]  INFO -- : (0.000350s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T19:46:03.334164 #28163]  INFO -- : (0.000269s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T19:46:15.769747 #28163]  INFO -- : (0.000190s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T19:48:23.562195 #28163]  INFO -- : (0.000163s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T19:48:23.562739 #28163]  INFO -- : (0.000145s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T19:50:02.635280 #28163]  INFO -- : (0.000169s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T19:50:02.635813 #28163]  INFO -- : (0.000164s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T19:50:14.689787 #28163]  INFO -- : (0.000268s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T19:50:43.572310 #28163]  INFO -- : (0.000239s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T19:50:54.242668 #28163]  INFO -- : (0.000157s) SELECT * FROM `collections` WHERE `id` = '3'
+I, [2018-02-28T19:50:54.243438 #28163]  INFO -- : (0.000133s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 3)
+I, [2018-02-28T19:51:07.241659 #28163]  INFO -- : (0.000191s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T19:51:37.238578 #28163]  INFO -- : (0.000180s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:29:17.444363 #28163]  INFO -- : (0.011036s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:30:48.877872 #28163]  INFO -- : (0.000226s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:31:01.415699 #28163]  INFO -- : (0.000172s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:31:15.596095 #28163]  INFO -- : (0.000182s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:31:31.548514 #28163]  INFO -- : (0.000178s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T20:31:31.549494 #28163]  INFO -- : (0.000147s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T20:31:37.339541 #28163]  INFO -- : (0.000200s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:31:41.024944 #28163]  INFO -- : (0.000194s) SELECT * FROM `collections` WHERE `id` = '2'
+I, [2018-02-28T20:31:41.025443 #28163]  INFO -- : (0.000110s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 2)
+I, [2018-02-28T20:31:43.969051 #28163]  INFO -- : (0.000181s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:32:29.134833 #28163]  INFO -- : (0.000231s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:33:16.952987 #28163]  INFO -- : (0.000584s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:34:02.256811 #28163]  INFO -- : (0.000293s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T20:34:02.257868 #28163]  INFO -- : (0.000286s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T20:34:14.853211 #28163]  INFO -- : (0.000192s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:34:17.362004 #28163]  INFO -- : (0.000172s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:34:17.362863 #28163]  INFO -- : (0.000288s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T20:34:24.816334 #28163]  INFO -- : (0.000197s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:38:03.634335 #28163]  INFO -- : (0.000258s) SELECT * FROM `users` WHERE (`name` = 'xavier') LIMIT 1
+I, [2018-02-28T20:38:03.637058 #28163]  INFO -- : (0.000215s) SELECT * FROM `collections` WHERE (`collections`.`user_id` = 1)
+I, [2018-02-28T20:38:03.663625 #28163]  INFO -- : (0.000270s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:38:12.762305 #28163]  INFO -- : (0.000177s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:38:12.763038 #28163]  INFO -- : (0.000201s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T20:38:33.521837 #28163]  INFO -- : (0.000217s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:38:34.224875 #28163]  INFO -- : (0.000059s) BEGIN
+I, [2018-02-28T20:38:34.226843 #28163]  INFO -- : (0.001629s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('http://24.media.tumblr.com/tumblr_m20povXp3T1rro1o5o1_250.jpg', 1)
+I, [2018-02-28T20:38:34.227266 #28163]  INFO -- : (0.000200s) SELECT * FROM `gifs` WHERE `id` = 49
+I, [2018-02-28T20:38:34.239263 #28163]  INFO -- : (0.011890s) COMMIT
+I, [2018-02-28T20:38:50.959431 #28163]  INFO -- : (0.000172s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:38:51.713195 #28163]  INFO -- : (0.000140s) BEGIN
+I, [2018-02-28T20:38:51.714035 #28163]  INFO -- : (0.000405s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/bf3d204e385f4a6d61dbe5e08840e4d3/tenor.gif', 1)
+I, [2018-02-28T20:38:51.714758 #28163]  INFO -- : (0.000334s) SELECT * FROM `gifs` WHERE `id` = 50
+I, [2018-02-28T20:38:51.736383 #28163]  INFO -- : (0.021434s) COMMIT
+I, [2018-02-28T20:39:03.003628 #28163]  INFO -- : (0.000568s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:39:04.025096 #28163]  INFO -- : (0.000072s) BEGIN
+I, [2018-02-28T20:39:04.025619 #28163]  INFO -- : (0.000232s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media2.giphy.com/media/fg5ISpcmRK9tS/200_d.gif', 1)
+I, [2018-02-28T20:39:04.025970 #28163]  INFO -- : (0.000163s) SELECT * FROM `gifs` WHERE `id` = 51
+I, [2018-02-28T20:39:04.040106 #28163]  INFO -- : (0.014023s) COMMIT
+I, [2018-02-28T20:39:26.325036 #28163]  INFO -- : (0.000187s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:39:27.030747 #28163]  INFO -- : (0.000285s) BEGIN
+I, [2018-02-28T20:39:27.032492 #28163]  INFO -- : (0.000766s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/AxPBGfPqeQWfS/200_d.gif', 1)
+I, [2018-02-28T20:39:27.033825 #28163]  INFO -- : (0.000682s) SELECT * FROM `gifs` WHERE `id` = 52
+I, [2018-02-28T20:39:27.052034 #28163]  INFO -- : (0.017859s) COMMIT
+I, [2018-02-28T20:39:58.836986 #28163]  INFO -- : (0.000273s) SELECT * FROM `gifs` WHERE `id` = '49'
+I, [2018-02-28T20:39:58.849299 #28163]  INFO -- : (0.012139s) DELETE FROM `gifs` WHERE `id` = 49
+I, [2018-02-28T20:40:01.840438 #28163]  INFO -- : (0.000573s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:40:02.420476 #28163]  INFO -- : (0.000219s) BEGIN
+I, [2018-02-28T20:40:02.422075 #28163]  INFO -- : (0.000723s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('http://25.media.tumblr.com/tumblr_lnpl51urqb1qbwm92o1_250.jpg', 1)
+I, [2018-02-28T20:40:02.423724 #28163]  INFO -- : (0.000971s) SELECT * FROM `gifs` WHERE `id` = 53
+I, [2018-02-28T20:40:02.438821 #28163]  INFO -- : (0.014611s) COMMIT
+I, [2018-02-28T20:40:24.305058 #28163]  INFO -- : (0.000169s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:40:24.829855 #28163]  INFO -- : (0.000052s) BEGIN
+I, [2018-02-28T20:40:24.830280 #28163]  INFO -- : (0.000191s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media0.giphy.com/media/mHoWiLiPg2Jjy/200_d.gif', 1)
+I, [2018-02-28T20:40:24.830586 #28163]  INFO -- : (0.000164s) SELECT * FROM `gifs` WHERE `id` = 54
+I, [2018-02-28T20:40:24.844369 #28163]  INFO -- : (0.013699s) COMMIT
+I, [2018-02-28T20:41:45.538499 #28163]  INFO -- : (0.000180s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:41:48.838176 #28163]  INFO -- : (0.000162s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T20:41:48.838710 #28163]  INFO -- : (0.000123s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T20:41:54.206885 #28163]  INFO -- : (0.000459s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:41:56.286775 #28163]  INFO -- : (0.000149s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:41:56.287352 #28163]  INFO -- : (0.000157s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T20:42:02.842489 #28163]  INFO -- : (0.000316s) SELECT * FROM `gifs` WHERE `id` = '53'
+I, [2018-02-28T20:42:02.855233 #28163]  INFO -- : (0.012504s) DELETE FROM `gifs` WHERE `id` = 53
+I, [2018-02-28T20:42:09.823884 #28163]  INFO -- : (0.000159s) SELECT * FROM `gifs` WHERE `id` = '52'
+I, [2018-02-28T20:42:09.836159 #28163]  INFO -- : (0.012137s) DELETE FROM `gifs` WHERE `id` = 52
+I, [2018-02-28T20:42:11.997172 #28163]  INFO -- : (0.000279s) SELECT * FROM `gifs` WHERE `id` = '54'
+I, [2018-02-28T20:42:12.009625 #28163]  INFO -- : (0.012255s) DELETE FROM `gifs` WHERE `id` = 54
+I, [2018-02-28T20:42:14.091859 #28163]  INFO -- : (0.000154s) SELECT * FROM `gifs` WHERE `id` = '51'
+I, [2018-02-28T20:42:14.104360 #28163]  INFO -- : (0.012396s) DELETE FROM `gifs` WHERE `id` = 51
+I, [2018-02-28T20:42:15.727013 #28163]  INFO -- : (0.000223s) SELECT * FROM `gifs` WHERE `id` = '50'
+I, [2018-02-28T20:42:15.739992 #28163]  INFO -- : (0.012787s) DELETE FROM `gifs` WHERE `id` = 50
+I, [2018-02-28T20:42:20.813101 #28163]  INFO -- : (0.000194s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:42:23.349720 #28163]  INFO -- : (0.000164s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:42:23.350266 #28163]  INFO -- : (0.000149s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T20:42:25.815736 #28163]  INFO -- : (0.000216s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:42:26.335381 #28163]  INFO -- : (0.000077s) BEGIN
+I, [2018-02-28T20:42:26.336017 #28163]  INFO -- : (0.000291s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media0.giphy.com/media/8gwgQZR82xB2o/200_d.gif', 1)
+I, [2018-02-28T20:42:26.336431 #28163]  INFO -- : (0.000195s) SELECT * FROM `gifs` WHERE `id` = 55
+I, [2018-02-28T20:42:26.350337 #28163]  INFO -- : (0.013744s) COMMIT
+I, [2018-02-28T20:42:32.131740 #28163]  INFO -- : (0.000180s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:42:32.630145 #28163]  INFO -- : (0.000186s) BEGIN
+I, [2018-02-28T20:42:32.631456 #28163]  INFO -- : (0.000603s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/lTZ5WfXGK8zV6/200_d.gif', 1)
+I, [2018-02-28T20:42:32.632331 #28163]  INFO -- : (0.000397s) SELECT * FROM `gifs` WHERE `id` = 56
+I, [2018-02-28T20:42:32.646943 #28163]  INFO -- : (0.014343s) COMMIT
+I, [2018-02-28T20:42:45.815549 #28163]  INFO -- : (0.000207s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:42:49.569679 #28163]  INFO -- : (0.000172s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:42:49.570205 #28163]  INFO -- : (0.000144s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T20:43:06.332021 #28163]  INFO -- : (0.000205s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:43:06.332978 #28163]  INFO -- : (0.000305s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T20:43:59.425765 #28163]  INFO -- : (0.000416s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:44:00.177347 #28163]  INFO -- : (0.000187s) BEGIN
+I, [2018-02-28T20:44:00.178915 #28163]  INFO -- : (0.000721s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/579a87d12d4ca4ed0eb15684fe184910/tenor.gif', 1)
+I, [2018-02-28T20:44:00.180304 #28163]  INFO -- : (0.000723s) SELECT * FROM `gifs` WHERE `id` = 57
+I, [2018-02-28T20:44:00.196107 #28163]  INFO -- : (0.015417s) COMMIT
+I, [2018-02-28T20:44:13.933356 #28163]  INFO -- : (0.000230s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:44:14.468854 #28163]  INFO -- : (0.000051s) BEGIN
+I, [2018-02-28T20:44:14.469271 #28163]  INFO -- : (0.000175s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media2.giphy.com/media/KoXVFgEkQrY4M/200_d.gif', 1)
+I, [2018-02-28T20:44:14.469564 #28163]  INFO -- : (0.000119s) SELECT * FROM `gifs` WHERE `id` = 58
+I, [2018-02-28T20:44:14.489735 #28163]  INFO -- : (0.020082s) COMMIT
+I, [2018-02-28T20:44:22.367003 #28163]  INFO -- : (0.000311s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:45:33.314660 #28163]  INFO -- : (0.000142s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:45:33.315224 #28163]  INFO -- : (0.000178s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-02-28T20:45:40.276361 #28163]  INFO -- : (0.000215s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:45:41.176933 #28163]  INFO -- : (0.000138s) BEGIN
+I, [2018-02-28T20:45:41.178254 #28163]  INFO -- : (0.000540s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media0.giphy.com/media/DW96MigNxQxK8/200_d.gif', 1)
+I, [2018-02-28T20:45:41.180500 #28163]  INFO -- : (0.000578s) SELECT * FROM `gifs` WHERE `id` = 59
+I, [2018-02-28T20:45:41.198516 #28163]  INFO -- : (0.017596s) COMMIT
+I, [2018-02-28T20:45:48.919223 #28163]  INFO -- : (0.000197s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-02-28T20:45:49.677183 #28163]  INFO -- : (0.000063s) BEGIN
+I, [2018-02-28T20:45:49.677548 #28163]  INFO -- : (0.000165s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/16d394c947d70111253f95ab7a3166f2/tenor.gif', 1)
+I, [2018-02-28T20:45:49.677762 #28163]  INFO -- : (0.000101s) SELECT * FROM `gifs` WHERE `id` = 60
+I, [2018-02-28T20:45:49.693291 #28163]  INFO -- : (0.015456s) COMMIT
+I, [2018-02-28T20:47:52.033633 #28163]  INFO -- : (0.000195s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-02-28T20:47:54.515971 #28163]  INFO -- : (0.000188s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T20:47:54.516709 #28163]  INFO -- : (0.000234s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T20:47:59.426120 #28163]  INFO -- : (0.000183s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T20:47:59.670935 #28163]  INFO -- : (0.000175s) BEGIN
+I, [2018-02-28T20:47:59.672638 #28163]  INFO -- : (0.000735s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('http://25.media.tumblr.com/tumblr_lq5d0xtA5j1r0drxxo1_250.gif', 9)
+I, [2018-02-28T20:47:59.674657 #28163]  INFO -- : (0.000628s) SELECT * FROM `gifs` WHERE `id` = 61
+I, [2018-02-28T20:47:59.695293 #28163]  INFO -- : (0.020266s) COMMIT
+I, [2018-02-28T20:48:11.589074 #28163]  INFO -- : (0.000232s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T20:48:11.590455 #28163]  INFO -- : (0.000662s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-02-28T20:48:16.170661 #28163]  INFO -- : (0.000188s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T20:48:17.089377 #28163]  INFO -- : (0.000260s) BEGIN
+I, [2018-02-28T20:48:17.091056 #28163]  INFO -- : (0.000797s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media1.giphy.com/media/3oKIPn3lGaOlWt879C/200_d.gif', 9)
+I, [2018-02-28T20:48:17.092181 #28163]  INFO -- : (0.000507s) SELECT * FROM `gifs` WHERE `id` = 62
+I, [2018-02-28T20:48:17.107506 #28163]  INFO -- : (0.014997s) COMMIT
+I, [2018-02-28T20:48:23.872688 #28163]  INFO -- : (0.000186s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-02-28T20:48:24.754360 #28163]  INFO -- : (0.000141s) BEGIN
+I, [2018-02-28T20:48:24.755617 #28163]  INFO -- : (0.000630s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media.tenor.com/images/c926a1ae5f4cbbf08a269eefaf90616c/tenor.gif', 9)
+I, [2018-02-28T20:48:24.756446 #28163]  INFO -- : (0.000378s) SELECT * FROM `gifs` WHERE `id` = 63
+I, [2018-02-28T20:48:24.770932 #28163]  INFO -- : (0.014238s) COMMIT
+I, [2018-02-28T20:48:34.897509 #28163]  INFO -- : (0.000230s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-03-01T07:07:54.940353 #1292]  INFO -- : (0.003525s) PRAGMA foreign_keys = 1
+I, [2018-03-01T07:07:54.941300 #1292]  INFO -- : (0.000069s) PRAGMA case_sensitive_like = 1
+I, [2018-03-01T07:07:54.941833 #1292]  INFO -- : (0.000247s) SELECT sqlite_version()
+I, [2018-03-01T07:07:54.942634 #1292]  INFO -- : (0.000313s) PRAGMA table_info('collections')
+I, [2018-03-01T07:07:54.946290 #1292]  INFO -- : (0.000320s) PRAGMA table_info('gifs')
+I, [2018-03-01T07:07:54.952120 #1292]  INFO -- : (0.000316s) PRAGMA table_info('users')
+I, [2018-03-01T07:08:08.978320 #1292]  INFO -- : (0.000228s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-03-01T07:08:08.980193 #1292]  INFO -- : (0.000235s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 9)
+I, [2018-03-01T07:08:16.461559 #1292]  INFO -- : (0.000200s) SELECT * FROM `gifs` WHERE `id` = '63'
+I, [2018-03-01T07:08:16.479653 #1292]  INFO -- : (0.017935s) DELETE FROM `gifs` WHERE `id` = 63
+I, [2018-03-01T07:08:18.473751 #1292]  INFO -- : (0.000306s) SELECT * FROM `gifs` WHERE `id` = '62'
+I, [2018-03-01T07:08:18.487020 #1292]  INFO -- : (0.013049s) DELETE FROM `gifs` WHERE `id` = 62
+I, [2018-03-01T07:08:22.166666 #1292]  INFO -- : (0.000189s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-03-01T07:08:23.238772 #1292]  INFO -- : (0.000154s) BEGIN
+I, [2018-03-01T07:08:23.240369 #1292]  INFO -- : (0.000694s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media1.giphy.com/media/u9e7fk2rL5njy/200_d.gif', 9)
+I, [2018-03-01T07:08:23.241520 #1292]  INFO -- : (0.000415s) SELECT * FROM `gifs` WHERE `id` = 64
+I, [2018-03-01T07:08:23.256593 #1292]  INFO -- : (0.014672s) COMMIT
+I, [2018-03-01T07:08:30.887732 #1292]  INFO -- : (0.000196s) SELECT * FROM `collections` WHERE `id` = '9'
+I, [2018-03-01T07:08:31.718484 #1292]  INFO -- : (0.000187s) BEGIN
+I, [2018-03-01T07:08:31.719901 #1292]  INFO -- : (0.000565s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/l41Ywr3dQBOujzU7m/200_d.gif', 9)
+I, [2018-03-01T07:08:31.720739 #1292]  INFO -- : (0.000383s) SELECT * FROM `gifs` WHERE `id` = 65
+I, [2018-03-01T07:08:31.736240 #1292]  INFO -- : (0.015156s) COMMIT
+I, [2018-03-01T07:08:38.169532 #1292]  INFO -- : (0.000201s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-03-01T07:08:44.678666 #1292]  INFO -- : (0.000188s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-03-01T07:08:44.679197 #1292]  INFO -- : (0.000135s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 6)
+I, [2018-03-01T07:08:48.461027 #1292]  INFO -- : (0.000192s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-03-01T07:08:49.384770 #1292]  INFO -- : (0.000149s) BEGIN
+I, [2018-03-01T07:08:49.386507 #1292]  INFO -- : (0.000816s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/44VKlLF6OelkA/200_d.gif', 6)
+I, [2018-03-01T07:08:49.387642 #1292]  INFO -- : (0.000433s) SELECT * FROM `gifs` WHERE `id` = 66
+I, [2018-03-01T07:08:49.404450 #1292]  INFO -- : (0.016352s) COMMIT
+I, [2018-03-01T07:08:55.371850 #1292]  INFO -- : (0.000341s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-03-01T07:08:55.874818 #1292]  INFO -- : (0.000230s) BEGIN
+I, [2018-03-01T07:08:55.876103 #1292]  INFO -- : (0.000625s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media1.giphy.com/media/LTEOCiA4P4Wy4XnbYM/200_d.gif', 6)
+I, [2018-03-01T07:08:55.877026 #1292]  INFO -- : (0.000461s) SELECT * FROM `gifs` WHERE `id` = 67
+I, [2018-03-01T07:08:55.892551 #1292]  INFO -- : (0.015251s) COMMIT
+I, [2018-03-01T07:09:04.117529 #1292]  INFO -- : (0.000165s) SELECT * FROM `collections` WHERE `id` = '6'
+I, [2018-03-01T07:09:04.739304 #1292]  INFO -- : (0.000050s) BEGIN
+I, [2018-03-01T07:09:04.739771 #1292]  INFO -- : (0.000215s) INSERT INTO `gifs` (`url`, `collection_id`) VALUES ('https://media3.giphy.com/media/2UIEn4arKJ4KQ/200_d.gif', 6)
+I, [2018-03-01T07:09:04.740130 #1292]  INFO -- : (0.000163s) SELECT * FROM `gifs` WHERE `id` = 68
+I, [2018-03-01T07:09:04.754161 #1292]  INFO -- : (0.013908s) COMMIT
+I, [2018-03-01T07:09:10.330988 #1292]  INFO -- : (0.000199s) SELECT * FROM `gifs` WHERE `id` = '67'
+I, [2018-03-01T07:09:10.343921 #1292]  INFO -- : (0.012762s) DELETE FROM `gifs` WHERE `id` = 67
+I, [2018-03-01T07:09:12.787779 #1292]  INFO -- : (0.000169s) SELECT * FROM `gifs` WHERE `id` = '66'
+I, [2018-03-01T07:09:12.801597 #1292]  INFO -- : (0.013700s) DELETE FROM `gifs` WHERE `id` = 66
+I, [2018-03-01T07:09:17.770020 #1292]  INFO -- : (0.000272s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-03-01T07:09:31.250540 #1292]  INFO -- : (0.000166s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-03-01T07:09:31.251082 #1292]  INFO -- : (0.000162s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-03-01T07:09:50.953525 #1292]  INFO -- : (0.000243s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-03-01T07:09:52.269852 #1292]  INFO -- : (0.000188s) SELECT * FROM `collections` WHERE `id` = '2'
+I, [2018-03-01T07:09:52.270403 #1292]  INFO -- : (0.000127s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 2)
+I, [2018-03-01T07:09:55.466728 #1292]  INFO -- : (0.000236s) SELECT * FROM `collections` WHERE (`user_id` = '1')
+I, [2018-03-01T07:09:57.044109 #1292]  INFO -- : (0.000188s) SELECT * FROM `collections` WHERE `id` = '1'
+I, [2018-03-01T07:09:57.044806 #1292]  INFO -- : (0.000223s) SELECT * FROM `gifs` WHERE (`gifs`.`collection_id` = 1)
+I, [2018-03-01T07:09:58.757847 #1292]  INFO -- : (0.000364s) SELECT * FROM `gifs` WHERE `id` = '4'
+I, [2018-03-01T07:09:58.772580 #1292]  INFO -- : (0.014416s) DELETE FROM `gifs` WHERE `id` = 4
+I, [2018-03-01T07:10:00.656218 #1292]  INFO -- : (0.000343s) SELECT * FROM `gifs` WHERE `id` = '7'
+I, [2018-03-01T07:10:00.670501 #1292]  INFO -- : (0.014058s) DELETE FROM `gifs` WHERE `id` = 7
+I, [2018-03-01T07:10:02.365310 #1292]  INFO -- : (0.000304s) SELECT * FROM `gifs` WHERE `id` = '8'
+I, [2018-03-01T07:10:02.388013 #1292]  INFO -- : (0.022523s) DELETE FROM `gifs` WHERE `id` = 8
+I, [2018-03-01T07:10:17.551362 #1292]  INFO -- : (0.000210s) SELECT * FROM `gifs` WHERE `id` = '60'
+I, [2018-03-01T07:10:17.564929 #1292]  INFO -- : (0.013438s) DELETE FROM `gifs` WHERE `id` = 60
+I, [2018-03-01T07:10:19.462951 #1292]  INFO -- : (0.000224s) SELECT * FROM `gifs` WHERE `id` = '59'
+I, [2018-03-01T07:10:19.476838 #1292]  INFO -- : (0.013717s) DELETE FROM `gifs` WHERE `id` = 59
+I, [2018-03-01T07:10:41.579679 #1292]  INFO -- : (0.000298s) SELECT * FROM `collections` WHERE (`user_id` = '1')
