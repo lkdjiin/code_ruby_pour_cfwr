@@ -1,0 +1,12 @@
+<nav>
+  <% if @user_id %>
+    <a href="/walls?user_id=<%= @user_id %>">Home</a> -
+    <a href="/">Log out</a>
+
+  <% else %>
+    <a href="/">Home</a>
+
+  <% end %>
+
+  <div id="js-feedback" class="feedback"><%= notice %></div>
+</nav>

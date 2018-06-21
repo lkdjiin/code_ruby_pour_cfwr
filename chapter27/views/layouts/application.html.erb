@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Walls of Gifs</title>
+    <%= include_css %>
+  </head>
+  <body>
+
+    <%= include_partial "layouts/menu.html.erb" %>
+
+    <%= yield %>
+
+    <%= include_javascript %>
+  </body>
+</html>

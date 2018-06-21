@@ -1,0 +1,41 @@
+<h1><%= @wall.name %></h1>
+
+<p>
+  <b><em><span class="light">[<%= @wall.tags %>]</span></em></b> -
+  <a href="/gifs/new?wall_id=<%= @wall.id %>"
+     onclick="newGif(<%= @wall.id %>);return false;">New Gif</a>
+</p>
+
+<div id="js-gifs">
+  <% @wall.gifs.each do |gif| %>
+    <div class="gif" id="js-gif-id-<%= gif.id %>">
+      <div class="gif-image">
+        <img src="<%= gif.url %>" height=200>
+      </div>
+      <div class="gif-actions">
+        <a href="/gifs/delete?id=<%= gif.id %>&wall_id=<%= @wall.id %>"
+           onclick="deleteGif(<%= gif.id %>);return false;">×</a>
+      </div>
+    </div>
+  <% end %>
+</div>
+
+<hr>
+<p><a href="/walls/delete?id=<%= @wall.id %>&user_id=<%= @wall.user_id %>">Delete this wall</a></p>
+
+<template id="gif-template">
+  <div class="gif" id="js-gif-id-xx">
+    <div class="gif-image">
+    </div>
+    <div class="gif-actions">
+      <a>×</a>
+    </div>
+  </div>
+</template>
+
+<template id="placeholder-template">
+  <div class="gif placeholder">
+    <div class="loader">
+    </div>
+  </div>
+</template>

@@ -1,0 +1,24 @@
+<h1>Walls</h1>
+
+<div class="walls">
+  <% @walls.sort_by { |wall| wall.name }.each do |wall| %>
+    <p>
+      <a href="/walls/show?id=<%= wall.id %>"><b><%= wall.name %></b></a>
+      <em><span class="light">[<%= wall.tags %>]</span></em>
+    </p>
+  <% end %>
+</div>
+
+<form method="post" action="/walls/new">
+  <fieldset>
+    <legend class="ultra-light">Create a new wall</legend>
+    <label>Name
+      <input type="text" name="name">
+    </label>
+    <label>Tag(s)
+      <input type="text" name="tags">
+    </label>
+    <input type="hidden" name="user_id" value="<%= @user_id %>">
+    <button type="submit">Add a wall</button>
+  </fieldset>
+</form>

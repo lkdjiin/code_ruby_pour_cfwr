@@ -1,0 +1,22 @@
+@media (min-width: 1000px) {
+  body { max-width: 80em; }
+}
+
+.light {
+  color: #888;
+}
+
+.ultra-light {
+  color: #aaa;
+}
+
+.walls {
+  margin-bottom: 6rem;
+}
+
+.feedback {
+  height: 3rem;
+  line-height: 3rem;
+  font-style: italic;
+  color: #777;
+}

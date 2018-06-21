@@ -1,0 +1,171 @@
+# Logfile created on 2018-02-07 08:28:33 +0100 by logger.rb/56815
+I, [2018-02-07T08:28:33.643398 #10830]  INFO -- : (0.000183s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:28:33.643499 #10830]  INFO -- : (0.000027s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:28:33.643685 #10830]  INFO -- : (0.000083s) SELECT sqlite_version()
+I, [2018-02-07T08:28:33.643876 #10830]  INFO -- : (0.000035s) PRAGMA table_info('articles')
+E, [2018-02-07T08:28:33.644058 #10830] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:30:28.714065 #10910]  INFO -- : (0.000181s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:30:28.714159 #10910]  INFO -- : (0.000028s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:30:28.714358 #10910]  INFO -- : (0.000100s) SELECT sqlite_version()
+I, [2018-02-07T08:30:28.714539 #10910]  INFO -- : (0.000028s) PRAGMA table_info('articles')
+E, [2018-02-07T08:30:28.714729 #10910] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:31:19.722750 #11015]  INFO -- : (0.000179s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:31:19.722849 #11015]  INFO -- : (0.000028s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:31:19.723022 #11015]  INFO -- : (0.000081s) SELECT sqlite_version()
+I, [2018-02-07T08:31:19.723205 #11015]  INFO -- : (0.000026s) PRAGMA table_info('articles')
+E, [2018-02-07T08:31:19.723396 #11015] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:32:31.235288 #11177]  INFO -- : (0.000176s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:32:31.235397 #11177]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:32:31.235587 #11177]  INFO -- : (0.000084s) SELECT sqlite_version()
+I, [2018-02-07T08:32:31.235784 #11177]  INFO -- : (0.000034s) PRAGMA table_info('articles')
+E, [2018-02-07T08:32:31.236056 #11177] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:32:51.518877 #11194]  INFO -- : (0.000195s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:32:51.518979 #11194]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:32:51.519171 #11194]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2018-02-07T08:32:51.519360 #11194]  INFO -- : (0.000026s) PRAGMA table_info('articles')
+E, [2018-02-07T08:32:51.519560 #11194] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-02-07T08:33:04.404317 #11256]  INFO -- : (0.000182s) PRAGMA foreign_keys = 1
+I, [2018-02-07T08:33:04.404416 #11256]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-02-07T08:33:04.404604 #11256]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2018-02-07T08:33:04.404794 #11256]  INFO -- : (0.000027s) PRAGMA table_info('articles')
+E, [2018-02-07T08:33:04.404982 #11256] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-03-06T09:04:31.107571 #15154]  INFO -- : (0.000210s) PRAGMA foreign_keys = 1
+I, [2018-03-06T09:04:31.107661 #15154]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-03-06T09:04:31.107869 #15154]  INFO -- : (0.000095s) SELECT sqlite_version()
+I, [2018-03-06T09:04:31.108083 #15154]  INFO -- : (0.000029s) PRAGMA table_info('articles')
+E, [2018-03-06T09:04:31.108325 #15154] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-03-07T08:27:26.530199 #31534]  INFO -- : (0.000823s) PRAGMA foreign_keys = 1
+I, [2018-03-07T08:27:26.530551 #31534]  INFO -- : (0.000032s) PRAGMA case_sensitive_like = 1
+I, [2018-03-07T08:27:26.531026 #31534]  INFO -- : (0.000315s) SELECT sqlite_version()
+I, [2018-03-07T08:27:26.531293 #31534]  INFO -- : (0.000040s) PRAGMA table_info('articles')
+E, [2018-03-07T08:27:26.531615 #31534] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-03-07T09:28:24.386301 #8455]  INFO -- : (0.002748s) PRAGMA foreign_keys = 1
+I, [2018-03-07T09:28:24.386595 #8455]  INFO -- : (0.000021s) PRAGMA case_sensitive_like = 1
+I, [2018-03-07T09:28:24.386789 #8455]  INFO -- : (0.000086s) SELECT sqlite_version()
+I, [2018-03-07T09:28:24.386993 #8455]  INFO -- : (0.000038s) PRAGMA table_info('articles')
+E, [2018-03-07T09:28:24.387178 #8455] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-03-07T09:29:11.492586 #8511]  INFO -- : (0.000199s) PRAGMA foreign_keys = 1
+I, [2018-03-07T09:29:11.492704 #8511]  INFO -- : (0.000025s) PRAGMA case_sensitive_like = 1
+I, [2018-03-07T09:29:11.492923 #8511]  INFO -- : (0.000099s) SELECT sqlite_version()
+I, [2018-03-07T09:29:11.493143 #8511]  INFO -- : (0.000038s) PRAGMA table_info('articles')
+E, [2018-03-07T09:29:11.493376 #8511] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-03-07T09:29:58.459664 #8566]  INFO -- : (0.000234s) PRAGMA foreign_keys = 1
+I, [2018-03-07T09:29:58.459759 #8566]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-03-07T09:29:58.459962 #8566]  INFO -- : (0.000087s) SELECT sqlite_version()
+I, [2018-03-07T09:29:58.460137 #8566]  INFO -- : (0.000025s) PRAGMA table_info('articles')
+E, [2018-03-07T09:29:58.460340 #8566] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-03-08T08:17:24.911228 #32491]  INFO -- : (0.003496s) PRAGMA foreign_keys = 1
+I, [2018-03-08T08:17:24.911620 #32491]  INFO -- : (0.000044s) PRAGMA case_sensitive_like = 1
+I, [2018-03-08T08:17:24.911949 #32491]  INFO -- : (0.000153s) SELECT sqlite_version()
+I, [2018-03-08T08:17:24.912242 #32491]  INFO -- : (0.000046s) PRAGMA table_info('articles')
+E, [2018-03-08T08:17:24.912514 #32491] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-03-08T08:36:06.165756 #4321]  INFO -- : (0.000199s) PRAGMA foreign_keys = 1
+I, [2018-03-08T08:36:06.165858 #4321]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2018-03-08T08:36:06.166099 #4321]  INFO -- : (0.000095s) SELECT sqlite_version()
+I, [2018-03-08T08:36:06.166334 #4321]  INFO -- : (0.000039s) PRAGMA table_info('articles')
+E, [2018-03-08T08:36:06.166608 #4321] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-03-09T09:23:11.910486 #31561]  INFO -- : (0.000185s) PRAGMA foreign_keys = 1
+I, [2018-03-09T09:23:11.910897 #31561]  INFO -- : (0.000021s) PRAGMA case_sensitive_like = 1
+I, [2018-03-09T09:23:11.911116 #31561]  INFO -- : (0.000112s) SELECT sqlite_version()
+I, [2018-03-09T09:23:11.911307 #31561]  INFO -- : (0.000031s) PRAGMA table_info('articles')
+E, [2018-03-09T09:23:11.911507 #31561] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-23T08:56:06.517831 #26277]  INFO -- : (0.000234s) PRAGMA foreign_keys = 1
+I, [2018-04-23T08:56:06.518128 #26277]  INFO -- : (0.000022s) PRAGMA case_sensitive_like = 1
+I, [2018-04-23T08:56:06.518349 #26277]  INFO -- : (0.000111s) SELECT sqlite_version()
+I, [2018-04-23T08:56:06.518529 #26277]  INFO -- : (0.000032s) PRAGMA table_info('articles')
+E, [2018-04-23T08:56:06.518728 #26277] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-23T08:59:59.630829 #26736]  INFO -- : (0.000185s) PRAGMA foreign_keys = 1
+I, [2018-04-23T08:59:59.630943 #26736]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-04-23T08:59:59.631121 #26736]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2018-04-23T08:59:59.631316 #26736]  INFO -- : (0.000027s) PRAGMA table_info('articles')
+E, [2018-04-23T08:59:59.631516 #26736] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-23T09:13:58.083447 #28916]  INFO -- : (0.000186s) PRAGMA foreign_keys = 1
+I, [2018-04-23T09:13:58.083536 #28916]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-04-23T09:13:58.083753 #28916]  INFO -- : (0.000092s) SELECT sqlite_version()
+I, [2018-04-23T09:13:58.083937 #28916]  INFO -- : (0.000026s) PRAGMA table_info('articles')
+E, [2018-04-23T09:13:58.084167 #28916] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-23T09:27:56.417096 #30299]  INFO -- : (0.000205s) PRAGMA foreign_keys = 1
+I, [2018-04-23T09:27:56.417193 #30299]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-04-23T09:27:56.417400 #30299]  INFO -- : (0.000097s) SELECT sqlite_version()
+I, [2018-04-23T09:27:56.417612 #30299]  INFO -- : (0.000043s) PRAGMA table_info('articles')
+E, [2018-04-23T09:27:56.417811 #30299] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-23T09:32:03.794442 #30762]  INFO -- : (0.000191s) PRAGMA foreign_keys = 1
+I, [2018-04-23T09:32:03.794547 #30762]  INFO -- : (0.000035s) PRAGMA case_sensitive_like = 1
+I, [2018-04-23T09:32:03.794743 #30762]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2018-04-23T09:32:03.794964 #30762]  INFO -- : (0.000041s) PRAGMA table_info('articles')
+E, [2018-04-23T09:32:03.795167 #30762] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-24T08:43:11.568230 #18324]  INFO -- : (0.000187s) PRAGMA foreign_keys = 1
+I, [2018-04-24T08:43:11.568334 #18324]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-04-24T08:43:11.568546 #18324]  INFO -- : (0.000097s) SELECT sqlite_version()
+I, [2018-04-24T08:43:11.568843 #18324]  INFO -- : (0.000053s) PRAGMA table_info('articles')
+E, [2018-04-24T08:43:11.569215 #18324] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-24T08:48:17.780767 #18505]  INFO -- : (0.000185s) PRAGMA foreign_keys = 1
+I, [2018-04-24T08:48:17.780853 #18505]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-04-24T08:48:17.781080 #18505]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2018-04-24T08:48:17.781278 #18505]  INFO -- : (0.000034s) PRAGMA table_info('articles')
+E, [2018-04-24T08:48:17.781512 #18505] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-24T09:19:05.522913 #22566]  INFO -- : (0.000175s) PRAGMA foreign_keys = 1
+I, [2018-04-24T09:19:05.523006 #22566]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-04-24T09:19:05.523212 #22566]  INFO -- : (0.000084s) SELECT sqlite_version()
+I, [2018-04-24T09:19:05.523419 #22566]  INFO -- : (0.000034s) PRAGMA table_info('articles')
+E, [2018-04-24T09:19:05.523635 #22566] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-24T09:23:25.899604 #23044]  INFO -- : (0.000176s) PRAGMA foreign_keys = 1
+I, [2018-04-24T09:23:25.899692 #23044]  INFO -- : (0.000018s) PRAGMA case_sensitive_like = 1
+I, [2018-04-24T09:23:25.899879 #23044]  INFO -- : (0.000091s) SELECT sqlite_version()
+I, [2018-04-24T09:23:25.900060 #23044]  INFO -- : (0.000029s) PRAGMA table_info('articles')
+E, [2018-04-24T09:23:25.900247 #23044] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-25T10:11:31.904822 #5051]  INFO -- : (0.000175s) PRAGMA foreign_keys = 1
+I, [2018-04-25T10:11:31.904907 #5051]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-04-25T10:11:31.905096 #5051]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2018-04-25T10:11:31.905316 #5051]  INFO -- : (0.000037s) PRAGMA table_info('articles')
+E, [2018-04-25T10:11:31.905515 #5051] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-25T10:46:03.568630 #8159]  INFO -- : (0.000184s) PRAGMA foreign_keys = 1
+I, [2018-04-25T10:46:03.568727 #8159]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-04-25T10:46:03.568942 #8159]  INFO -- : (0.000104s) SELECT sqlite_version()
+I, [2018-04-25T10:46:03.569150 #8159]  INFO -- : (0.000029s) PRAGMA table_info('articles')
+E, [2018-04-25T10:46:03.569366 #8159] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-25T10:48:06.761308 #8237]  INFO -- : (0.000237s) PRAGMA foreign_keys = 1
+I, [2018-04-25T10:48:06.761421 #8237]  INFO -- : (0.000026s) PRAGMA case_sensitive_like = 1
+I, [2018-04-25T10:48:06.761651 #8237]  INFO -- : (0.000112s) SELECT sqlite_version()
+I, [2018-04-25T10:48:06.761854 #8237]  INFO -- : (0.000038s) PRAGMA table_info('articles')
+E, [2018-04-25T10:48:06.762048 #8237] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-25T10:51:23.727072 #8425]  INFO -- : (0.000196s) PRAGMA foreign_keys = 1
+I, [2018-04-25T10:51:23.727165 #8425]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-04-25T10:51:23.727374 #8425]  INFO -- : (0.000085s) SELECT sqlite_version()
+I, [2018-04-25T10:51:23.727587 #8425]  INFO -- : (0.000033s) PRAGMA table_info('articles')
+E, [2018-04-25T10:51:23.727803 #8425] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-25T10:53:28.120969 #8527]  INFO -- : (0.000177s) PRAGMA foreign_keys = 1
+I, [2018-04-25T10:53:28.121059 #8527]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-04-25T10:53:28.121322 #8527]  INFO -- : (0.000086s) SELECT sqlite_version()
+I, [2018-04-25T10:53:28.121533 #8527]  INFO -- : (0.000034s) PRAGMA table_info('articles')
+E, [2018-04-25T10:53:28.121764 #8527] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-25T10:55:51.907584 #8631]  INFO -- : (0.000182s) PRAGMA foreign_keys = 1
+I, [2018-04-25T10:55:51.907686 #8631]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-04-25T10:55:51.907894 #8631]  INFO -- : (0.000089s) SELECT sqlite_version()
+I, [2018-04-25T10:55:51.908110 #8631]  INFO -- : (0.000051s) PRAGMA table_info('articles')
+E, [2018-04-25T10:55:51.908285 #8631] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-26T08:03:44.056098 #32034]  INFO -- : (0.000187s) PRAGMA foreign_keys = 1
+I, [2018-04-26T08:03:44.056201 #32034]  INFO -- : (0.000020s) PRAGMA case_sensitive_like = 1
+I, [2018-04-26T08:03:44.056427 #32034]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2018-04-26T08:03:44.056662 #32034]  INFO -- : (0.000038s) PRAGMA table_info('articles')
+E, [2018-04-26T08:03:44.056882 #32034] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-26T08:08:52.743682 #32284]  INFO -- : (0.000182s) PRAGMA foreign_keys = 1
+I, [2018-04-26T08:08:52.743789 #32284]  INFO -- : (0.000031s) PRAGMA case_sensitive_like = 1
+I, [2018-04-26T08:08:52.744000 #32284]  INFO -- : (0.000090s) SELECT sqlite_version()
+I, [2018-04-26T08:08:52.744213 #32284]  INFO -- : (0.000035s) PRAGMA table_info('articles')
+E, [2018-04-26T08:08:52.744397 #32284] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-26T08:12:28.541223 #32529]  INFO -- : (0.000180s) PRAGMA foreign_keys = 1
+I, [2018-04-26T08:12:28.541316 #32529]  INFO -- : (0.000019s) PRAGMA case_sensitive_like = 1
+I, [2018-04-26T08:12:28.541519 #32529]  INFO -- : (0.000083s) SELECT sqlite_version()
+I, [2018-04-26T08:12:28.541729 #32529]  INFO -- : (0.000032s) PRAGMA table_info('articles')
+E, [2018-04-26T08:12:28.541938 #32529] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-26T08:30:48.069550 #667]  INFO -- : (0.000192s) PRAGMA foreign_keys = 1
+I, [2018-04-26T08:30:48.069654 #667]  INFO -- : (0.000031s) PRAGMA case_sensitive_like = 1
+I, [2018-04-26T08:30:48.069863 #667]  INFO -- : (0.000087s) SELECT sqlite_version()
+I, [2018-04-26T08:30:48.070064 #667]  INFO -- : (0.000027s) PRAGMA table_info('articles')
+E, [2018-04-26T08:30:48.070277 #667] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
+I, [2018-04-30T07:46:08.998336 #727]  INFO -- : (0.000182s) PRAGMA foreign_keys = 1
+I, [2018-04-30T07:46:08.998754 #727]  INFO -- : (0.000021s) PRAGMA case_sensitive_like = 1
+I, [2018-04-30T07:46:08.998987 #727]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2018-04-30T07:46:08.999188 #727]  INFO -- : (0.000036s) PRAGMA table_info('articles')
+E, [2018-04-30T07:46:08.999430 #727] ERROR -- : SQLite3::SQLException: no such table: articles: SELECT * FROM `articles` LIMIT 1
