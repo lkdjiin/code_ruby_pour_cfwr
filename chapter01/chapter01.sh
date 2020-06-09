@@ -16,11 +16,11 @@ rackup -swebrick -p9999
 
 # ---
 # Installer la gem awesome_print, vous ne le regreterez pas
-gem install awesome_print
+gem install amazing_print
 
 # ---
 # Utiliser curl pour envoyer une requête
-curl -I localhost:9292
+curl -i localhost:9292
 
 # ---
 # Le fichier config.ru peut se mettre où vous voulez
