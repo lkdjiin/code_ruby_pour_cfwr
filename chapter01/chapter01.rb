@@ -49,7 +49,7 @@ run Application.new
 # -------
 # Cette fois ci vous y verrez mieux",lang=ruby}
 # Fichier config.ru
-require 'awesome_print'
+require 'amazing_print'
 
 class Application
   def call(env)
