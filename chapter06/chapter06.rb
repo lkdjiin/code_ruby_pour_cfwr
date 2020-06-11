@@ -75,7 +75,7 @@ Article.where(name: "Courgette").all
 Article.where{quantity > 15}.all
 
 # ---
-Article.where('quantity > ?', 15).all
+Article.where(Sequel.lit('quantity > ?', 15)).all
 
 # ---
 # Une syntaxe un peu particulière
