@@ -3,7 +3,13 @@
 <p><%= @post.content %></p>
 
 <p>
-  <a href="/posts/delete?id=<%= @post.id %>">
-    Supprimer (mais ne venez pas pleurer après !)
-  </a>
+<a href="/posts/edit?id=<%= @post.id %>">
+Mettre à jour
+</a>
+</p>
+
+<p>
+<a href="/posts/delete?id=<%= @post.id %>">
+Supprimer (mais ne venez pas pleurer après !)
+</a>
 </p>

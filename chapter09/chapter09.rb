@@ -7,7 +7,7 @@ class PostsController < BaseController
 end
 
 # --- Y a comme un problème
-require_relative 'routes_builder'
+require_relative 'lib/routes_builder'
 require 'yaml'
 builder = RoutesBuilder.new(YAML.load_file("routes.yml"))
 builder.build
